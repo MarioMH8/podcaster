@@ -1,0 +1,41 @@
+{
+	"name": "podcaster",
+	"version": "0.0.0",
+	"description": "Mini aplicación para escuchar podcasts musicales",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MarioMH8/podcaster.git"
+	},
+	"homepage": "https://github.com/MarioMH8/podcaster",
+	"bugs": {
+		"url": "https://github.com/MarioMH8/podcaster/issues"
+	},
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"build": "vite build",
+		"dev": "vite",
+		"lint": "eslint .",
+		"lint:fix": "eslint --fix .",
+		"preview": "vite preview",
+		"test": "vitest",
+		"typecheck": "tsc --noEmit"
+	},
+	"dependencies": {
+		"react": "19.2.0",
+		"react-dom": "19.2.0"
+	},
+	"devDependencies": {
+		"@hexadrop/eslint-config": "0.1.10",
+		"@types/react": "19.2.2",
+		"@types/react-dom": "19.2.2",
+		"@vitejs/plugin-react": "5.0.4",
+		"eslint": "9.37.0",
+		"typescript": "5.9.3",
+		"vite": "7.1.9",
+		"vitest": "3.2.4"
+	},
+	"engines": {
+		"node": ">=22.12.0"
+	}
+}
