@@ -19,14 +19,14 @@ const Podcaster: FC = () => {
 				<Switch>
 					<Route path='/podcast/:podcast'>
 						{({ podcast }) => (
-							<Suspense fallback={<Spinner className={css.loading} />}>
+							<Suspense fallback={<Spinner className={css.fallback} />}>
 								<Podcast podcast={podcast} />
 							</Suspense>
 						)}
 					</Route>
 					<Route path='/podcast/:podcast/episode/:episode'>
 						{({ episode, podcast }) => (
-							<Suspense fallback={<Spinner className={css.loading} />}>
+							<Suspense fallback={<Spinner className={css.fallback} />}>
 								<Episode
 									episode={episode}
 									podcast={podcast}
@@ -35,7 +35,7 @@ const Podcaster: FC = () => {
 						)}
 					</Route>
 					<Route path='*'>
-						<Suspense fallback={<Spinner className={css.loading} />}>
+						<Suspense fallback={<Spinner className={css.fallback} />}>
 							<Home />
 						</Suspense>
 					</Route>
