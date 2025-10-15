@@ -25,7 +25,6 @@ describe('ItunesPodcastRepository', () => {
 
 		const podcast = await repository.search(criteria);
 
-		expect(podcast).toHaveLength(2);
 		expect(podcast.map(p => p.toPrimitives())).toMatchSnapshot();
 	});
 });
