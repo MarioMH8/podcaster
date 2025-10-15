@@ -13,6 +13,7 @@
 		"moduleResolution": "bundler",
 		"paths": {
 			"@domain/*": ["src/domain/*"],
+			"@domain": ["src/domain/index"],
 			"@presentation/*": ["src/presentation/*"]
 		},
 		"types": ["vite/client"],
