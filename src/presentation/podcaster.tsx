@@ -1,4 +1,5 @@
 import { Link, Main, Nav, Spinner } from '@presentation/components';
+import { PodcasterProvider } from '@presentation/context';
 import type { FC } from 'react';
 import { lazy, StrictMode, Suspense } from 'react';
 import { Route, Switch } from 'wouter';
@@ -12,36 +13,38 @@ const Episode = lazy(() => import('@presentation/pages/episode'));
 const Podcaster: FC = () => {
 	return (
 		<StrictMode>
-			<Nav className={css.nav}>
-				<Link href='/'>Podcaster</Link>
-				<Spinner className={css.loading} />
-			</Nav>
-			<Main>
-				<Switch>
-					<Route path='/podcast/:podcast'>
-						{({ podcast }) => (
+			<PodcasterProvider>
+				<Nav className={css.nav}>
+					<Link href='/'>Podcaster</Link>
+					<Spinner className={css.loading} />
+				</Nav>
+				<Main>
+					<Switch>
+						<Route path='/podcast/:podcast'>
+							{({ podcast }) => (
+								<Suspense fallback={<Spinner className={css.fallback} />}>
+									<Podcast podcast={podcast} />
+								</Suspense>
+							)}
+						</Route>
+						<Route path='/podcast/:podcast/episode/:episode'>
+							{({ episode, podcast }) => (
+								<Suspense fallback={<Spinner className={css.fallback} />}>
+									<Episode
+										episode={episode}
+										podcast={podcast}
+									/>
+								</Suspense>
+							)}
+						</Route>
+						<Route path='*'>
 							<Suspense fallback={<Spinner className={css.fallback} />}>
-								<Podcast podcast={podcast} />
+								<Home />
 							</Suspense>
-						)}
-					</Route>
-					<Route path='/podcast/:podcast/episode/:episode'>
-						{({ episode, podcast }) => (
-							<Suspense fallback={<Spinner className={css.fallback} />}>
-								<Episode
-									episode={episode}
-									podcast={podcast}
-								/>
-							</Suspense>
-						)}
-					</Route>
-					<Route path='*'>
-						<Suspense fallback={<Spinner className={css.fallback} />}>
-							<Home />
-						</Suspense>
-					</Route>
-				</Switch>
-			</Main>
+						</Route>
+					</Switch>
+				</Main>
+			</PodcasterProvider>
 		</StrictMode>
 	);
 };
