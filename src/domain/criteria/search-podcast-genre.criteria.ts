@@ -2,16 +2,12 @@ export default class SearchPodcastGenreCriteria {
 	readonly #value: number;
 
 	constructor(value: number) {
-		if (value === undefined) {
+		// eslint-disable-next-line typescript/no-unnecessary-condition
+		if (value === undefined || value === null) {
 			throw new Error('Genre cannot be empty');
 		}
-
-		if (value <= 0) {
-			throw new Error('Genre must be greater than zero');
-		}
-
-		if (value > 100) {
-			throw new Error('Genre must be less than or equal to 100');
+		if (typeof value !== 'number' || Number.isNaN(value)) {
+			throw new TypeError('Genre must be a number');
 		}
 
 		this.#value = value;
