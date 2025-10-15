@@ -14,6 +14,7 @@ const Podcaster: FC = () => {
 		<StrictMode>
 			<Nav className={css.nav}>
 				<Link href='/'>Podcaster</Link>
+				<Spinner className={css.loading} />
 			</Nav>
 			<Main>
 				<Switch>
