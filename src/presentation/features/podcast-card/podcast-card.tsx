@@ -17,7 +17,7 @@ const PodcastCard: FC<PodcastCardProps> = ({ podcast }) => {
 				src={podcast.image}
 			/>
 			<h2 className={css.title}>{podcast.name}</h2>
-			<p className={css.artist}>Artist: {podcast.author}</p>
+			<p className={css.artist}>Author: {podcast.author}</p>
 		</Card>
 	);
 };
