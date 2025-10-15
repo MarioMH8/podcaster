@@ -1,26 +1,46 @@
+import { Main, Nav, Spinner } from '@presentation/components';
 import type { FC } from 'react';
-import { lazy, StrictMode } from 'react';
-import { Route, Switch } from 'wouter';
+import { lazy, StrictMode, Suspense } from 'react';
+import { Link, Route, Switch } from 'wouter';
+
+import css from './podcaster.module.css';
+
+const Home = lazy(() => import('@presentation/pages/home'));
+const Podcast = lazy(() => import('@presentation/pages/podcast'));
+const Episode = lazy(() => import('@presentation/pages/episode'));
 
 const Podcaster: FC = () => {
-	const Index = lazy(() => import('@presentation/pages/home'));
-	const Podcast = lazy(() => import('@presentation/pages/podcast'));
-	const Episode = lazy(() => import('@presentation/pages/episode'));
-
 	return (
 		<StrictMode>
-			<Switch>
-				<Route path='/podcast/:podcast'>{({ podcast }) => <Podcast podcast={podcast} />}</Route>
-				<Route path='/podcast/:podcast/episode/:episode'>
-					{({ episode, podcast }) => (
-						<Episode
-							episode={episode}
-							podcast={podcast}
-						/>
-					)}
-				</Route>
-				<Route path='*'>{() => <Index />}</Route>
-			</Switch>
+			<Nav>
+				<Link to='/'>Podcaster</Link>
+			</Nav>
+			<Main>
+				<Switch>
+					<Route path='/podcast/:podcast'>
+						{({ podcast }) => (
+							<Suspense fallback={<Spinner className={css.loading} />}>
+								<Podcast podcast={podcast} />
+							</Suspense>
+						)}
+					</Route>
+					<Route path='/podcast/:podcast/episode/:episode'>
+						{({ episode, podcast }) => (
+							<Suspense fallback={<Spinner className={css.loading} />}>
+								<Episode
+									episode={episode}
+									podcast={podcast}
+								/>
+							</Suspense>
+						)}
+					</Route>
+					<Route path='*'>
+						<Suspense fallback={<Spinner className={css.loading} />}>
+							<Home />
+						</Suspense>
+					</Route>
+				</Switch>
+			</Main>
 		</StrictMode>
 	);
 };
