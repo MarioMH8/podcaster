@@ -2,8 +2,12 @@ export default class SearchPodcastLimitCriteria {
 	readonly #value: number;
 
 	constructor(value: number) {
-		if (value === undefined) {
+		// eslint-disable-next-line typescript/no-unnecessary-condition
+		if (value === undefined || value === null) {
 			throw new Error('Limit cannot be empty');
+		}
+		if (typeof value !== 'number' || Number.isNaN(value)) {
+			throw new TypeError('Limit must be a number');
 		}
 
 		if (value <= 0) {
