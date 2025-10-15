@@ -14,6 +14,7 @@
 		"paths": {
 			"@domain/*": ["src/domain/*"],
 			"@domain": ["src/domain/index"],
+			"@application": ["src/application/index"],
 			"@presentation/*": ["src/presentation/*"]
 		},
 		"types": ["vite/client"],
