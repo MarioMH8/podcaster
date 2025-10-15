@@ -4,3 +4,24 @@
 	margin: 20px auto;
 	display: block;
 }
+
+.filter {
+	display: flex;
+	flex-direction: row;
+	justify-content: end;
+	align-items: center;
+	margin: 1rem 0 2rem;
+	gap: 1rem;
+}
+
+.badge {
+	background-color: var(--color-main);
+	color: white;
+	padding: 5px 10px;
+	border-radius: 0.75rem;
+	font-size: 0.8rem;
+}
+
+.input {
+	font-size: 0.8rem;
+}
