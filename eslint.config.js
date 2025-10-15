@@ -1,5 +1,8 @@
 import hexadrop from '@hexadrop/eslint-config';
 
 export default hexadrop({
-	ignore: ['public/mockServiceWorker.js'],
+	ignore: {
+		files: './.gitignore',
+		globs: ['./public/mockServiceWorker.js'],
+	},
 });
