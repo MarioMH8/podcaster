@@ -22,6 +22,8 @@
 		"typecheck": "tsc --noEmit"
 	},
 	"dependencies": {
+		"inversify": "6.2.2",
+		"inversify-react": "1.2.0",
 		"normalize.css": "8.0.1",
 		"react": "19.2.0",
 		"react-dom": "19.2.0",

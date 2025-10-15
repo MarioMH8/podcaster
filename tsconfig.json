@@ -12,6 +12,7 @@
 		/* Bundler mode */
 		"moduleResolution": "bundler",
 		"paths": {
+			"@container": ["src/container"],
 			"@domain/*": ["src/domain/*"],
 			"@domain": ["src/domain/index"],
 			"@application": ["src/application/index"],
