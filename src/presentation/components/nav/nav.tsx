@@ -2,12 +2,12 @@ import type { ComponentPropsWithRef, FC } from 'react';
 
 import css from './nav.module.css';
 
-const Nav: FC<ComponentPropsWithRef<'nav'>> = ({ children, ...properties }) => {
+const Nav: FC<ComponentPropsWithRef<'nav'>> = ({ children, className, ...properties }) => {
 	return (
 		<nav
 			{...properties}
 			className={css.nav}>
-			<div className={properties.className}>{children}</div>
+			<div className={className}>{children}</div>
 		</nav>
 	);
 };

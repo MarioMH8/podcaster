@@ -1,5 +1,6 @@
-import { Link, Main, Nav, Spinner } from '@presentation/components';
+import { Main, Spinner } from '@presentation/components';
 import { PodcasterProvider } from '@presentation/context';
+import { NavigationBar } from '@presentation/features';
 import type { FC } from 'react';
 import { lazy, StrictMode, Suspense } from 'react';
 import { Route, Switch } from 'wouter';
@@ -14,10 +15,7 @@ const Podcaster: FC = () => {
 	return (
 		<StrictMode>
 			<PodcasterProvider>
-				<Nav className={css.nav}>
-					<Link href='/'>Podcaster</Link>
-					<Spinner className={css.loading} />
-				</Nav>
+				<NavigationBar />
 				<Main>
 					<Switch>
 						<Route path='/podcast/:podcast'>

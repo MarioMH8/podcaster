@@ -1,0 +1,20 @@
+import { Link, Nav, Spinner } from '@presentation/components';
+import { usePodcasterContext } from '@presentation/context';
+import type { FC } from 'react';
+
+import css from './navigation-bar.module.css';
+
+const NavigationBar: FC = () => {
+	const { isLoading } = usePodcasterContext();
+
+	return (
+		<Nav className={css.nav}>
+			<Link href='/'>Podcaster</Link>
+			{isLoading && <Spinner className={css.loading} />}
+		</Nav>
+	);
+};
+
+NavigationBar.displayName = 'NavigationBar';
+
+export default NavigationBar;

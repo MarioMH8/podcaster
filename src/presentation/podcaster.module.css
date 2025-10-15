@@ -4,13 +4,3 @@
 	margin: 20px auto;
 	display: block;
 }
-
-.nav {
-	display: flex;
-	flex-direction: row;
-	justify-content: space-between;
-}
-
-.loading {
-	max-width: 1.5rem;
-}
