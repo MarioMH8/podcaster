@@ -8,7 +8,7 @@ import { Link } from 'wouter';
 import css from './home.module.css';
 
 const Home: FC = () => {
-	const { isError, isLoading, podcasts } = useTopPodcast();
+	const { filter, isError, isLoading, podcasts, setFilter } = useTopPodcast();
 
 	if (isLoading) {
 		return <Spinner className={css.spinner} />;
@@ -26,8 +26,10 @@ const Home: FC = () => {
 				<span className={css.badge}>{podcasts.length}</span>
 				<Input
 					className={css.input}
+					onChange={event => setFilter(event.target.value)}
 					placeholder='Filter podcasts...'
 					type='search'
+					value={filter}
 				/>
 			</nav>
 			<section className={css.grid}>
