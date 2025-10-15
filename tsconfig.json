@@ -15,6 +15,7 @@
 			"@domain/*": ["src/domain/*"],
 			"@domain": ["src/domain/index"],
 			"@application": ["src/application/index"],
+			"@infrastructure": ["src/infrastructure/index"],
 			"@presentation/*": ["src/presentation/*"]
 		},
 		"types": ["vite/client"],
