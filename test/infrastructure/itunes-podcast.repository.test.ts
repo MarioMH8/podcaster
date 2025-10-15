@@ -1,6 +1,6 @@
 import { SearchPodcastCriteria } from '@domain';
 import { ItunesPodcastParser, ITunesPodcastRepository } from '@infrastructure';
-import { server } from '@mock';
+import server from '@mock/msw/node';
 import { afterAll, afterEach, beforeAll, beforeEach, describe, expect, it } from 'vitest';
 
 describe('ItunesPodcastRepository', () => {

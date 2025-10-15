@@ -1,5 +1,4 @@
 import { http, HttpResponse } from 'msw';
-import { setupServer } from 'msw/node';
 
 export const handlers = [
 	// Top podcast
@@ -220,4 +219,4 @@ export const handlers = [
 	}),
 ];
 
-export default setupServer(...handlers);
+export default handlers;

@@ -17,6 +17,7 @@
 			"@domain": ["src/domain/index"],
 			"@application": ["src/application/index"],
 			"@infrastructure": ["src/infrastructure/index"],
+			"@mock/*": ["mock/*"],
 			"@mock": ["mock/index"],
 			"@presentation/*": ["src/presentation/*"]
 		},
