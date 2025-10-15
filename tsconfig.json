@@ -12,11 +12,11 @@
 		/* Bundler mode */
 		"moduleResolution": "bundler",
 		"paths": {
-			"@app": ["src/presentation/podcaster.tsx"],
-			"@pages/*": ["src/presentation/pages/*"]
+			"@domain/*": ["src/domain/*"],
+			"@presentation/*": ["src/presentation/*"]
 		},
 		"types": ["vite/client"],
-		"allowImportingTsExtensions": true,
+		"allowImportingTsExtensions": false,
 
 		/* Linting */
 		"strict": true,
