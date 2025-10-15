@@ -9,7 +9,11 @@ const NavigationBar: FC = () => {
 
 	return (
 		<Nav className={css.nav}>
-			<Link href='/'>Podcaster</Link>
+			<Link
+				className={css.title}
+				href='/'>
+				Podcaster
+			</Link>
 			{isLoading && <Spinner className={css.loading} />}
 		</Nav>
 	);
