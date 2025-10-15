@@ -1,8 +1,9 @@
 import { Input, Spinner } from '@presentation/components';
 import { useTopPodcast } from '@presentation/context';
-import ErrorMessage from '@presentation/features/error-message';
+import { ErrorMessage, PodcastCard } from '@presentation/features';
 import type { FC } from 'react';
 import { Fragment } from 'react';
+import { Link } from 'wouter';
 
 import css from './home.module.css';
 
@@ -29,6 +30,15 @@ const Home: FC = () => {
 					type='search'
 				/>
 			</nav>
+			<section className={css.grid}>
+				{podcasts.map(podcast => (
+					<Link
+						key={podcast.id}
+						to={`/podcast/${podcast.id.toFixed(0)}`}>
+						<PodcastCard podcast={podcast} />
+					</Link>
+				))}
+			</section>
 		</Fragment>
 	);
 };

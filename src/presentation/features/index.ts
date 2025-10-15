@@ -1,2 +1,3 @@
-// eslint-disable-next-line import/prefer-default-export
+export { default as ErrorMessage } from './error-message';
 export { default as NavigationBar } from './navigation-bar';
+export { default as PodcastCard } from './podcast-card';

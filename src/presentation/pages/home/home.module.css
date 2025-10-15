@@ -10,8 +10,8 @@
 	flex-direction: row;
 	justify-content: end;
 	align-items: center;
-	margin: 1rem 0 2rem;
 	gap: 1rem;
+	margin-bottom: 5rem;
 }
 
 .badge {
@@ -24,4 +24,12 @@
 
 .input {
 	font-size: 0.8rem;
+}
+
+.grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(250px, 20%));
+	column-gap: 1.5rem;
+	row-gap: 5rem;
+	justify-content: center;
 }

@@ -1,0 +1,36 @@
+.podcast {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+    gap: .5rem;
+    padding: 1rem .25rem;
+}
+
+.podcast:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+}
+
+.image {
+    position: absolute;
+    transform : translateY(-50%);
+    width: 50%;
+    border-radius: 100%;
+    aspect-ratio: 1;
+}
+
+.title {
+    margin-top: 30%;
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.artist {
+    margin: 0;
+    text-align: center;
+    font-size: 0.8rem;
+    font-weight: 300;
+}
