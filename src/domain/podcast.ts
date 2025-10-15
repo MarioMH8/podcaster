@@ -33,6 +33,6 @@ class Podcast {
 	}
 }
 
-export { PodcastPrimitives };
+export type { PodcastPrimitives };
 
 export default Podcast;
