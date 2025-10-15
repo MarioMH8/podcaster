@@ -5,4 +5,7 @@ import paths from 'vite-tsconfig-paths';
 // https://vite.dev/config/
 export default defineConfig({
 	plugins: [react(), paths()],
+	test: {
+		environment: 'happy-dom',
+	},
 });
