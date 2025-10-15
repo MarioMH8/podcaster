@@ -1,7 +1,7 @@
-import { Main, Nav, Spinner } from '@presentation/components';
+import { Link, Main, Nav, Spinner } from '@presentation/components';
 import type { FC } from 'react';
 import { lazy, StrictMode, Suspense } from 'react';
-import { Link, Route, Switch } from 'wouter';
+import { Route, Switch } from 'wouter';
 
 import css from './podcaster.module.css';
 
@@ -12,8 +12,8 @@ const Episode = lazy(() => import('@presentation/pages/episode'));
 const Podcaster: FC = () => {
 	return (
 		<StrictMode>
-			<Nav>
-				<Link to='/'>Podcaster</Link>
+			<Nav className={css.nav}>
+				<Link href='/'>Podcaster</Link>
 			</Nav>
 			<Main>
 				<Switch>
