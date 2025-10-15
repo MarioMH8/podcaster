@@ -7,6 +7,7 @@ describe('Podcast', () => {
 			author: 'John Doe',
 			description: 'A podcast about technology.',
 			id: 1,
+			image: 'https://example.com/podcast.jpg',
 			name: 'Tech Talks',
 		};
 
@@ -16,6 +17,7 @@ describe('Podcast', () => {
 		expect(podcast.description.value).toBe(primitives.description);
 		expect(podcast.id.value).toBe(primitives.id);
 		expect(podcast.name.value).toBe(primitives.name);
+		expect(podcast.image.value).toBe(primitives.image);
 	});
 
 	it('returns the correct primitives from toPrimitives', () => {
@@ -23,6 +25,7 @@ describe('Podcast', () => {
 			author: 'John Doe',
 			description: 'A podcast about technology.',
 			id: 1,
+			image: 'https://example.com/podcast.jpg',
 			name: 'Tech Talks',
 		};
 
