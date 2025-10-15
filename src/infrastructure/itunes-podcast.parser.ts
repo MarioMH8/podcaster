@@ -1,3 +1,4 @@
+import { Podcast } from '@domain';
 import { z } from 'zod/mini';
 
 const PodcastSchema = z.object({
@@ -22,19 +23,26 @@ const PodcastSchema = z.object({
 	}),
 });
 
-type Podcast = z.infer<typeof PodcastSchema>;
-
 const FeedPodcastSchema = z.object({
 	entry: z.array(PodcastSchema),
 });
-
-type FeedPodcast = z.infer<typeof FeedPodcastSchema>;
 
 const TopPodcastSchema = z.object({
 	feed: FeedPodcastSchema,
 });
 
-type TopPodcast = z.infer<typeof TopPodcastSchema>;
+export default class ItunesPodcastParser {
+	parse(json: unknown): Podcast[] {
+		const parsed = TopPodcastSchema.parse(json);
 
-export type { FeedPodcast, Podcast, TopPodcast };
-export { FeedPodcastSchema, PodcastSchema, TopPodcastSchema };
+		return parsed.feed.entry.map(
+			entry =>
+				new Podcast({
+					author: entry['im:artist'].label,
+					description: entry.summary.label,
+					id: entry.id.attributes['im:id'],
+					name: entry['im:name'].label,
+				})
+		);
+	}
+}
