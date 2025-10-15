@@ -1,13 +1,11 @@
 import container from '@container';
-import { Main, Spinner } from '@presentation/components';
+import { Main } from '@presentation/components';
 import { PodcasterProvider } from '@presentation/context';
 import { NavigationBar } from '@presentation/features';
 import { Provider } from 'inversify-react';
 import type { FC } from 'react';
 import { lazy, StrictMode, Suspense } from 'react';
 import { Route, Switch } from 'wouter';
-
-import css from './podcaster.module.css';
 
 const Home = lazy(() => import('@presentation/pages/home'));
 const Podcast = lazy(() => import('@presentation/pages/podcast'));
@@ -23,14 +21,14 @@ const Podcaster: FC = () => {
 						<Switch>
 							<Route path='/podcast/:podcast'>
 								{({ podcast }) => (
-									<Suspense fallback={<Spinner className={css.fallback} />}>
+									<Suspense>
 										<Podcast podcast={podcast} />
 									</Suspense>
 								)}
 							</Route>
 							<Route path='/podcast/:podcast/episode/:episode'>
 								{({ episode, podcast }) => (
-									<Suspense fallback={<Spinner className={css.fallback} />}>
+									<Suspense>
 										<Episode
 											episode={episode}
 											podcast={podcast}
@@ -39,7 +37,7 @@ const Podcaster: FC = () => {
 								)}
 							</Route>
 							<Route path='*'>
-								<Suspense fallback={<Spinner className={css.fallback} />}>
+								<Suspense>
 									<Home />
 								</Suspense>
 							</Route>
