@@ -6,10 +6,15 @@
 		"lib": ["ES2022", "DOM", "DOM.Iterable"],
 		"moduleDetection": "force",
 		"useDefineForClassFields": true,
+		"baseUrl": ".",
 		"module": "ESNext",
 
 		/* Bundler mode */
 		"moduleResolution": "bundler",
+		"paths": {
+			"@app": ["src/presentation/podcaster.tsx"],
+			"@pages/*": ["src/presentation/pages/*"]
+		},
 		"types": ["vite/client"],
 		"allowImportingTsExtensions": true,
 
