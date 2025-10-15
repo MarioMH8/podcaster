@@ -6,8 +6,8 @@ const Nav: FC<ComponentPropsWithRef<'nav'>> = ({ children, ...properties }) => {
 	return (
 		<nav
 			{...properties}
-			className={[css.nav, properties.className].filter(Boolean).join(' ')}>
-			<div>{children}</div>
+			className={css.nav}>
+			<div className={properties.className}>{children}</div>
 		</nav>
 	);
 };
