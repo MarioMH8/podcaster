@@ -3,9 +3,9 @@ import { lazy, StrictMode } from 'react';
 import { Route, Switch } from 'wouter';
 
 const Podcaster: FC = () => {
-	const Index = lazy(() => import('./pages'));
-	const Podcast = lazy(() => import('./pages/podcast.tsx'));
-	const Episode = lazy(() => import('./pages/episode.tsx'));
+	const Index = lazy(() => import('@pages/home'));
+	const Podcast = lazy(() => import('@pages/podcast'));
+	const Episode = lazy(() => import('@pages/episode'));
 
 	return (
 		<StrictMode>

@@ -1,10 +1,10 @@
 import type { FC } from 'react';
 import { Fragment } from 'react';
 
-const Index: FC = () => {
+const Home: FC = () => {
 	return <Fragment />;
 };
 
-Index.displayName = 'Index';
+Home.displayName = 'Home';
 
-export default Index;
+export default Home;

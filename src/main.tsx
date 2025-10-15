@@ -1,8 +1,7 @@
 import './main.css';
 
+import Podcaster from '@app';
 import { createRoot } from 'react-dom/client';
-
-import Podcaster from './podcaster.tsx';
 
 const root = document.querySelector('#root');
 
