@@ -1,0 +1,22 @@
+.spinner {
+    animation: spinner 1.6s cubic-bezier(.52, .6, .25, .99) infinite
+}
+
+.delay_1 {
+    animation-delay: .2s
+}
+
+.delay_2 {
+    animation-delay: .4s
+}
+
+@keyframes spinner {
+    0 % {
+        transform: translate(12px, 12px) scale(0);
+        opacity: 1
+    }
+    75%, 100% {
+        transform: translate(0, 0) scale(1);
+        opacity: 0
+    }
+}
