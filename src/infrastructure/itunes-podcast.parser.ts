@@ -31,9 +31,15 @@ const TopPodcastSchema = z.object({
 	feed: FeedPodcastSchema,
 });
 
+const ProxyResponseSchema = z.object({
+	contents: z.string(),
+});
+
 export default class ItunesPodcastParser {
 	parse(json: unknown): Podcast[] {
-		const parsed = TopPodcastSchema.parse(json);
+		const { contents } = ProxyResponseSchema.parse(json);
+
+		const parsed = TopPodcastSchema.parse(JSON.parse(contents));
 
 		return parsed.feed.entry.map(
 			entry =>
