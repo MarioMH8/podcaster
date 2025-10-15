@@ -1,6 +1,6 @@
-.fallback {
+.spinner {
 	width: 100%;
-	max-width: 200px;
+	max-width: 4rem;
 	margin: 20px auto;
 	display: block;
 }
