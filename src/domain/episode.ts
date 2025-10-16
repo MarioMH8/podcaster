@@ -7,7 +7,7 @@ import EpisodeUrl from './episode-url';
 
 interface EpisodePrimitives {
 	description: string;
-	duration: number;
+	duration?: null | number | undefined;
 	id: number;
 	publication: Date;
 	title: string;
@@ -16,7 +16,7 @@ interface EpisodePrimitives {
 
 class Episode {
 	readonly description: EpisodeDescription;
-	readonly duration: EpisodeDuration;
+	readonly duration?: EpisodeDuration | undefined;
 	readonly id: EpisodeId;
 	readonly publication: EpisodePublication;
 	readonly title: EpisodeTitle;
@@ -24,9 +24,9 @@ class Episode {
 
 	constructor(primitives: EpisodePrimitives) {
 		this.description = new EpisodeDescription(primitives.description);
-		this.duration = new EpisodeDuration(primitives.duration);
+		this.duration = primitives.duration ? new EpisodeDuration(primitives.duration) : undefined;
 		this.id = new EpisodeId(primitives.id);
-		this.publication = new EpisodePublication(primitives.publication);
+		this.publication = new EpisodePublication(new Date(primitives.publication));
 		this.title = new EpisodeTitle(primitives.title);
 		this.url = new EpisodeUrl(primitives.url);
 	}
@@ -34,7 +34,7 @@ class Episode {
 	toPrimitives(): EpisodePrimitives {
 		return {
 			description: this.description.value,
-			duration: this.duration.value,
+			duration: this.duration?.value,
 			id: this.id.value,
 			publication: this.publication.value,
 			title: this.title.value,
