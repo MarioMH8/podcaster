@@ -9,10 +9,12 @@ if (!root) {
 	throw new Error('Failed to find the root element');
 }
 
-if (import.meta.env.DEV) {
-	const worker = await import('@mock/msw/browser');
-
-	await worker.default.start();
-}
+/*
+ * if (import.meta.env.DEV) {
+ * 	const worker = await import('@mock/msw/browser');
+ *
+ * 	await worker.default.start();
+ * }
+ */
 
 createRoot(root).render(<Podcaster />);
