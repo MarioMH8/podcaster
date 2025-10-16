@@ -1,767 +1,765 @@
 {
-  "resultCount": 21,
-  "results": [
-    {
-      "wrapperType": "track",
-      "kind": "podcast",
-      "artistId": 850139119,
-      "collectionId": 788236947,
-      "trackId": 788236947,
-      "artistName": "Hrishikesh Hirway",
-      "collectionName": "Song Exploder",
-      "trackName": "Song Exploder",
-      "collectionCensoredName": "Song Exploder",
-      "trackCensoredName": "Song Exploder",
-      "artistViewUrl": "https://podcasts.apple.com/us/artist/radiotopia/850139119?uo=4",
-      "collectionViewUrl": "https://podcasts.apple.com/us/podcast/song-exploder/id788236947?uo=4",
-      "feedUrl": "https://feed.songexploder.net/SongExploder",
-      "trackViewUrl": "https://podcasts.apple.com/us/podcast/song-exploder/id788236947?uo=4",
-      "artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/7b/35/057b3588-c74c-0334-d8ef-c6b8166d4afc/mza_12324100546486323942.jpg/30x30bb.jpg",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/7b/35/057b3588-c74c-0334-d8ef-c6b8166d4afc/mza_12324100546486323942.jpg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/7b/35/057b3588-c74c-0334-d8ef-c6b8166d4afc/mza_12324100546486323942.jpg/100x100bb.jpg",
-      "collectionPrice": 0.00,
-      "trackPrice": 0.00,
-      "collectionHdPrice": 0,
-      "releaseDate": "2025-10-15T13:30:00Z",
-      "collectionExplicitness": "notExplicit",
-      "trackExplicitness": "cleaned",
-      "trackCount": 344,
-      "trackTimeMillis": 1914,
-      "country": "USA",
-      "currency": "USD",
-      "primaryGenreName": "Music",
-      "contentAdvisoryRating": "Clean",
-      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/7b/35/057b3588-c74c-0334-d8ef-c6b8166d4afc/mza_12324100546486323942.jpg/600x600bb.jpg",
-      "genreIds": [
-        "1310",
-        "26"
-      ],
-      "genres": [
-        "Music",
-        "Podcasts"
-      ]
-    },
-    {
-      "artistIds": [
-        850139119
-      ],
-      "episodeFileExtension": "mp3",
-      "episodeContentType": "audio",
-      "episodeGuid": "prx_93_81fa749e-9f25-4249-b45b-80ca9fec5ae7",
-      "trackName": "A-ha - Take On Me",
-      "trackId": 1000731987827,
-      "shortDescription": "",
-      "releaseDate": "2025-10-15T13:30:00Z",
-      "feedUrl": "https://feed.songexploder.net/SongExploder",
-      "closedCaptioning": "none",
-      "collectionId": 788236947,
-      "collectionName": "Song Exploder",
-      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ce/e9/71/cee9718b-3e3b-d987-bf2e-611d85f53d3c/mza_15319236781944544497.jpg/160x160bb.jpg",
-      "kind": "podcast-episode",
-      "wrapperType": "podcastEpisode",
-      "description": "\"Take On Me\" by A-ha is an iconic hit of the 1980s. It came out in October 1985 with an equally iconic music video that helped define the age of MTV. It hit #1 in the US and in countries all over the world. And it's still massively popular today. It currently has over two and a half billion streams on Spotify. So, with all of that, it's easy to imagine that this was all inevitable. But actually, the song took so many steps and missteps before it became the hit that everybody knows. I talked to Paul Waaktaar-Savoy from A-ha, who wrote the original bones of the song back when he was a teenager in Norway, years before it came out. The song actually came out and flopped TWICE in the UK, before it found a foothold in the US. So for this episode, Paul took me through the whole history of the song, and all the different versions that existed. And he told me how he and his bandmates, Magne Furuholmen and Morten Harket, pushed and pushed and persevered. \"Take On Me\" was their first single as a band, and it made them the most successful Norwegian pop group of all time.\nFor more info, visit songexploder.net/a-ha.",
-      "country": "USA",
-      "previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/81fa749e-9f25-4249-b45b-80ca9fec5ae7/SongExploder301-A-ha-Part1.mp3",
-      "trackTimeMillis": 1914000,
-      "contentAdvisoryRating": "Clean",
-      "artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
-      "collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
-      "trackViewUrl": "https://podcasts.apple.com/us/podcast/a-ha-take-on-me/id788236947?i=1000731987827&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ce/e9/71/cee9718b-3e3b-d987-bf2e-611d85f53d3c/mza_15319236781944544497.jpg/60x60bb.jpg",
-      "episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/81fa749e-9f25-4249-b45b-80ca9fec5ae7/SongExploder301-A-ha-Part1.mp3",
-      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ce/e9/71/cee9718b-3e3b-d987-bf2e-611d85f53d3c/mza_15319236781944544497.jpg/600x600bb.jpg",
-      "genres": [
-        {
-          "name": "Music",
-          "id": "1310"
-        }
-      ]
-    },
-    {
-      "artistIds": [
-        850139119
-      ],
-      "episodeFileExtension": "mp3",
-      "episodeContentType": "audio",
-      "episodeGuid": "prx_93_43251972-8711-4897-9cf3-a289b42d51ba",
-      "trackName": "Lady Gaga - Abracadabra",
-      "trackId": 1000729514706,
-      "shortDescription": "",
-      "releaseDate": "2025-10-01T12:30:00Z",
-      "feedUrl": "https://feed.songexploder.net/SongExploder",
-      "closedCaptioning": "none",
-      "collectionId": 788236947,
-      "collectionName": "Song Exploder",
-      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/dd/18/38/dd183843-0d24-06aa-2697-67b871bc4599/mza_5264332681991024990.jpg/160x160bb.jpg",
-      "kind": "podcast-episode",
-      "wrapperType": "podcastEpisode",
-      "description": "Lady Gaga is a singer, songwriter, producer, and actress from New York. She’s one of the biggest artists in the world. She’s also won 14 Grammys, 2 Golden Globes, and an Oscar. And in March 2025, she released her sixth album, Mayhem. For this episode, I talked to her about a song from that album called “Abracadabra.” She co-wrote it and co-produced it with Andrew Watt and Cirkut, and they recorded it in Rick Rubin’s studio, Shangri-La. That’s also where we recorded the interview for this episode.\nFor more info, visit songexploder.net/lady-gaga.",
-      "country": "USA",
-      "previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/43251972-8711-4897-9cf3-a289b42d51ba/SongExploder300-LadyGaga-Part1.mp3",
-      "trackTimeMillis": 1620000,
-      "contentAdvisoryRating": "Clean",
-      "artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
-      "collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
-      "trackViewUrl": "https://podcasts.apple.com/us/podcast/lady-gaga-abracadabra/id788236947?i=1000729514706&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/dd/18/38/dd183843-0d24-06aa-2697-67b871bc4599/mza_5264332681991024990.jpg/60x60bb.jpg",
-      "episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/43251972-8711-4897-9cf3-a289b42d51ba/SongExploder300-LadyGaga-Part1.mp3",
-      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/dd/18/38/dd183843-0d24-06aa-2697-67b871bc4599/mza_5264332681991024990.jpg/600x600bb.jpg",
-      "genres": [
-        {
-          "name": "Music",
-          "id": "1310"
-        }
-      ]
-    },
-    {
-      "artistIds": [
-        850139119
-      ],
-      "episodeFileExtension": "mp3",
-      "episodeContentType": "audio",
-      "episodeGuid": "prx_93_7948e34d-2ada-4633-9a6f-89a08507b7e8",
-      "trackName": "Key Change: David Chang on \"I See a Darkness\"",
-      "trackId": 1000728260720,
-      "shortDescription": "",
-      "releaseDate": "2025-09-24T17:00:50Z",
-      "feedUrl": "https://feed.songexploder.net/SongExploder",
-      "closedCaptioning": "none",
-      "collectionId": 788236947,
-      "collectionName": "Song Exploder",
-      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/61/f9/e661f9f2-f57d-f3bd-4602-7ec99fb43339/mza_5167469249855200073.jpg/160x160bb.jpg",
-      "kind": "podcast-episode",
-      "wrapperType": "podcastEpisode",
-      "description": "My guest today is Chef David Chang. He founded Momofuku Noodle Bar in 2004. That was just the start of his incredible career – he’s opened several restaurants, winning awards and Michelin stars along the way, and becoming a fixture in the upper echelon of food. He’s the host of the Netflix shows Ugly Delicious and Dinner Time Live, as well as his own podcast, The Dave Chang Show. For this episode, I talked to Dave about the song “I See a Darkness.” It's the title track on the album by Bonnie “Prince” Billy, aka Will Oldham, which came out in 1999. Later, Johnny Cash would cover “I See a Darkness” in 2000, as a duet with Will Oldham, as part of Johnny Cash’s acclaimed American series.\nYou can get Bonnie \"Prince\" Billy’s \"I See a Darkness\" on vinyl or digital here.\nFor more info, visit songexploder.net/david-chang.",
-      "country": "USA",
-      "previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/7948e34d-2ada-4633-9a6f-89a08507b7e8/KeyChange8-DavidChang-Part1.mp3",
-      "trackTimeMillis": 1262000,
-      "contentAdvisoryRating": "Explicit",
-      "artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
-      "collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
-      "trackViewUrl": "https://podcasts.apple.com/us/podcast/key-change-david-chang-on-i-see-a-darkness/id788236947?i=1000728260720&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/61/f9/e661f9f2-f57d-f3bd-4602-7ec99fb43339/mza_5167469249855200073.jpg/60x60bb.jpg",
-      "episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/7948e34d-2ada-4633-9a6f-89a08507b7e8/KeyChange8-DavidChang-Part1.mp3",
-      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/61/f9/e661f9f2-f57d-f3bd-4602-7ec99fb43339/mza_5167469249855200073.jpg/600x600bb.jpg",
-      "genres": [
-        {
-          "name": "Music",
-          "id": "1310"
-        }
-      ]
-    },
-    {
-      "artistIds": [
-        850139119
-      ],
-      "episodeFileExtension": "mp3",
-      "episodeContentType": "audio",
-      "episodeGuid": "prx_93_ea7e7ccd-1d42-410a-b6a2-ebb3938e4b46",
-      "trackName": "Ethel Cain - Nettles",
-      "trackId": 1000727212828,
-      "shortDescription": "",
-      "releaseDate": "2025-09-17T15:00:00Z",
-      "feedUrl": "https://feed.songexploder.net/SongExploder",
-      "closedCaptioning": "none",
-      "collectionId": 788236947,
-      "collectionName": "Song Exploder",
-      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7b/ce/15/7bce15cd-243e-a944-b931-cd95820e7ba4/mza_6023624965045716324.jpg/160x160bb.jpg",
-      "kind": "podcast-episode",
-      "wrapperType": "podcastEpisode",
-      "description": "Hayden Anhedönia has been making music under the name Ethel Cain since 2019. But it’s not just a band name or a moniker; Ethel Cain is a fictional character, a sort of alter ego that Hayden’s been creating and world building around throughout her albums. The first Ethel Cain album, Preacher’s Daughter, came out in 2022. It ended up blowing up, and it made Hayden the first openly trans artist with an album in the top ten on the Billboard chart. In 2025, she put out the second Ethel Cain album, called Willoughby Tucker, I’ll Always Love You. For this episode, I talked to Hayden about how she made the song “Nettles.” As you’re about to hear, it took on a lot of different forms, over several years, before she got to the final version. \nFor more info, visit songexploder.net/ethel-cain.",
-      "country": "USA",
-      "previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/ea7e7ccd-1d42-410a-b6a2-ebb3938e4b46/SongExploder299-EthelCain-Part1.mp3",
-      "trackTimeMillis": 1877000,
-      "contentAdvisoryRating": "Clean",
-      "artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
-      "collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
-      "trackViewUrl": "https://podcasts.apple.com/us/podcast/ethel-cain-nettles/id788236947?i=1000727212828&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7b/ce/15/7bce15cd-243e-a944-b931-cd95820e7ba4/mza_6023624965045716324.jpg/60x60bb.jpg",
-      "episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/ea7e7ccd-1d42-410a-b6a2-ebb3938e4b46/SongExploder299-EthelCain-Part1.mp3",
-      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7b/ce/15/7bce15cd-243e-a944-b931-cd95820e7ba4/mza_6023624965045716324.jpg/600x600bb.jpg",
-      "genres": [
-        {
-          "name": "Music",
-          "id": "1310"
-        }
-      ]
-    },
-    {
-      "artistIds": [
-        850139119
-      ],
-      "episodeFileExtension": "mp3",
-      "episodeContentType": "audio",
-      "episodeGuid": "prx_93_e6c4d6cd-0dfb-4c3f-bca3-777bd2d0b058",
-      "trackName": "Sam Fender - People Watching",
-      "trackId": 1000724791101,
-      "shortDescription": "",
-      "releaseDate": "2025-09-03T15:37:42Z",
-      "feedUrl": "https://feed.songexploder.net/SongExploder",
-      "closedCaptioning": "none",
-      "collectionId": 788236947,
-      "collectionName": "Song Exploder",
-      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/48/1b/8b/481b8bb4-41d2-274d-d917-55872c58448a/mza_2857179328129319242.jpg/160x160bb.jpg",
-      "kind": "podcast-episode",
-      "wrapperType": "podcastEpisode",
-      "description": "Sam Fender is a singer and songwriter from the town of North Shields in England. He won the Brit Award for Best Rock/Alternative Act twice. His most recent album is called People Watching, and just like his first two albums, it went to #1 on the UK album charts. To help produce the album, Sam enlisted Adam Granduciel, the singer and frontman of the band The War on Drugs. For this episode, I talked to Sam, and his bandmate Joe Atkinson, about the title track from People Watching, and the long journey that it took to get made, from Sam’s kitchen, to the Hollywood Hills, to Abbey Road.",
-      "country": "USA",
-      "previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/e6c4d6cd-0dfb-4c3f-bca3-777bd2d0b058/SongExploder298-SamFender-Part1.mp3",
-      "trackTimeMillis": 1956000,
-      "contentAdvisoryRating": "Explicit",
-      "artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
-      "collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
-      "trackViewUrl": "https://podcasts.apple.com/us/podcast/sam-fender-people-watching/id788236947?i=1000724791101&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/48/1b/8b/481b8bb4-41d2-274d-d917-55872c58448a/mza_2857179328129319242.jpg/60x60bb.jpg",
-      "episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/e6c4d6cd-0dfb-4c3f-bca3-777bd2d0b058/SongExploder298-SamFender-Part1.mp3",
-      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/48/1b/8b/481b8bb4-41d2-274d-d917-55872c58448a/mza_2857179328129319242.jpg/600x600bb.jpg",
-      "genres": [
-        {
-          "name": "Music",
-          "id": "1310"
-        }
-      ]
-    },
-    {
-      "artistIds": [
-        850139119
-      ],
-      "episodeFileExtension": "mp3",
-      "episodeContentType": "audio",
-      "episodeGuid": "prx_93_32b2b0b8-106f-4e6f-b2f0-dfa1f7fa6024",
-      "trackName": "Key Change: Jia Tolentino on \"I Love You Always Forever\"",
-      "trackId": 1000723787228,
-      "shortDescription": "",
-      "releaseDate": "2025-08-27T19:00:00Z",
-      "feedUrl": "https://feed.songexploder.net/SongExploder",
-      "closedCaptioning": "none",
-      "collectionId": 788236947,
-      "collectionName": "Song Exploder",
-      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c5/06/8b/c5068b6c-6236-d6ca-5a56-010a43887460/mza_9315056033474473403.jpg/160x160bb.jpg",
-      "kind": "podcast-episode",
-      "wrapperType": "podcastEpisode",
-      "description": "My guest today is Jia Tolentino. Jia is the author of the essay collection Trick Mirror, which was named one of the best books of 2019 by The New York Times Book Review, NPR, The Paris Review, and more. She won a National Magazine Award for her work at the New Yorker, where she’s been a staff writer since 2016. Her writing covers so many different topics, from Roe V. Wade to the internet to pop culture and music. And today, we’re going to talk about the 1996 pop hit “I Love You Always Forever” by Donna Lewis. \nFor more, visit songexploder.net/jia-tolentino.",
-      "country": "USA",
-      "previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/32b2b0b8-106f-4e6f-b2f0-dfa1f7fa6024/KeyChange7-Jia_Tolentino-Part1.mp3",
-      "trackTimeMillis": 1036000,
-      "contentAdvisoryRating": "Explicit",
-      "artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
-      "collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
-      "trackViewUrl": "https://podcasts.apple.com/us/podcast/key-change-jia-tolentino-on-i-love-you-always-forever/id788236947?i=1000723787228&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c5/06/8b/c5068b6c-6236-d6ca-5a56-010a43887460/mza_9315056033474473403.jpg/60x60bb.jpg",
-      "episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/32b2b0b8-106f-4e6f-b2f0-dfa1f7fa6024/KeyChange7-Jia_Tolentino-Part1.mp3",
-      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c5/06/8b/c5068b6c-6236-d6ca-5a56-010a43887460/mza_9315056033474473403.jpg/600x600bb.jpg",
-      "genres": [
-        {
-          "name": "Music",
-          "id": "1310"
-        }
-      ]
-    },
-    {
-      "artistIds": [
-        850139119
-      ],
-      "episodeFileExtension": "mp3",
-      "episodeContentType": "audio",
-      "episodeGuid": "prx_93_907ad5ed-946c-4f3c-b6dd-d545dfc4a9c3",
-      "trackName": "Jay Som - Tenderness",
-      "trackId": 1000722833953,
-      "shortDescription": "",
-      "releaseDate": "2025-08-20T17:11:28Z",
-      "feedUrl": "https://feed.songexploder.net/SongExploder",
-      "closedCaptioning": "none",
-      "collectionId": 788236947,
-      "collectionName": "Song Exploder",
-      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/c6/43/04c6430d-8efd-c23e-8ab2-a6d251b862fa/mza_3623827056234332335.jpg/160x160bb.jpg",
-      "kind": "podcast-episode",
-      "wrapperType": "podcastEpisode",
-      "description": "Melina Duterte goes by the name Jay Som. She’s a singer, songwriter, and multi-instrumentalist. She’s released three albums as Jay Som, and has produced, engineered, and mixed each one.\nHer third album, Anak Ko, came out in August 2019. And in this episode, Melina breaks down a song from it called “Tenderness.”\nTo learn more, visit songexploder.net/jay-som.",
-      "country": "USA",
-      "previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/907ad5ed-946c-4f3c-b6dd-d545dfc4a9c3/SongExploder172-JaySom-Reissue-Part1.mp3",
-      "trackTimeMillis": 1107000,
-      "contentAdvisoryRating": "Clean",
-      "artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
-      "collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
-      "trackViewUrl": "https://podcasts.apple.com/us/podcast/jay-som-tenderness/id788236947?i=1000722833953&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/c6/43/04c6430d-8efd-c23e-8ab2-a6d251b862fa/mza_3623827056234332335.jpg/60x60bb.jpg",
-      "episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/907ad5ed-946c-4f3c-b6dd-d545dfc4a9c3/SongExploder172-JaySom-Reissue-Part1.mp3",
-      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/c6/43/04c6430d-8efd-c23e-8ab2-a6d251b862fa/mza_3623827056234332335.jpg/600x600bb.jpg",
-      "genres": [
-        {
-          "name": "Music",
-          "id": "1310"
-        }
-      ]
-    },
-    {
-      "artistIds": [
-        850139119
-      ],
-      "episodeFileExtension": "mp3",
-      "episodeContentType": "audio",
-      "episodeGuid": "prx_93_107a3647-e6f9-4095-945e-10ccc812c500",
-      "trackName": "Fall Out Boy - Sugar, We're Goin Down",
-      "trackId": 1000720901339,
-      "shortDescription": "",
-      "releaseDate": "2025-08-06T14:00:00Z",
-      "feedUrl": "https://feed.songexploder.net/SongExploder",
-      "closedCaptioning": "none",
-      "collectionId": 788236947,
-      "collectionName": "Song Exploder",
-      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ec/1b/34/ec1b34ae-a9b4-5356-23ef-3bd245065f77/mza_10063443202890305002.jpg/160x160bb.jpg",
-      "kind": "podcast-episode",
-      "wrapperType": "podcastEpisode",
-      "description": "Fall Out Boy is a band from Chicago that formed in 2001. Their first album, Take This To Your Grave, was a hit, especially in the punk rock world. When they put out their second album, though, in 2005, that was on a whole other scale. That album is called From Under the Cork Tree, and it went double platinum, and they were nominated for a Grammy for Best New Artist. For this episode, I talked to the band’s singer, Patrick Stump, about how they made their breakout hit from that album, the song “Sugar, We’re Goin Down.” \nFor more info, visit songexploder.net/fall-out-boy.",
-      "country": "USA",
-      "previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/107a3647-e6f9-4095-945e-10ccc812c500/SongExploder297-FallOutBoy-Part1.mp3",
-      "trackTimeMillis": 1882000,
-      "contentAdvisoryRating": "Clean",
-      "artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
-      "collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
-      "trackViewUrl": "https://podcasts.apple.com/us/podcast/fall-out-boy-sugar-were-goin-down/id788236947?i=1000720901339&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ec/1b/34/ec1b34ae-a9b4-5356-23ef-3bd245065f77/mza_10063443202890305002.jpg/60x60bb.jpg",
-      "episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/107a3647-e6f9-4095-945e-10ccc812c500/SongExploder297-FallOutBoy-Part1.mp3",
-      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ec/1b/34/ec1b34ae-a9b4-5356-23ef-3bd245065f77/mza_10063443202890305002.jpg/600x600bb.jpg",
-      "genres": [
-        {
-          "name": "Music",
-          "id": "1310"
-        }
-      ]
-    },
-    {
-      "artistIds": [
-        850139119
-      ],
-      "episodeFileExtension": "mp3",
-      "episodeContentType": "audio",
-      "episodeGuid": "prx_93_d154be98-5910-43b3-b439-23f7f34c7f60",
-      "trackName": "Gigi Perez - Sailor Song",
-      "trackId": 1000718690084,
-      "shortDescription": "",
-      "releaseDate": "2025-07-23T15:00:00Z",
-      "feedUrl": "https://feed.songexploder.net/SongExploder",
-      "closedCaptioning": "none",
-      "collectionId": 788236947,
-      "collectionName": "Song Exploder",
-      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/6f/da/fd6fda02-81ad-2bf5-ea87-dcfc6c12841a/mza_14207303641887478450.jpg/160x160bb.jpg",
-      "kind": "podcast-episode",
-      "wrapperType": "podcastEpisode",
-      "description": "Gigi Perez is a singer and songwriter from Florida, and at 25 years old, she’s already had so many ups and downs in her music career. She started sharing her songs on TikTok, where they got enough attention that she got signed to a major label deal, but that ultimately didn’t pan out. Soon after that, as an independent artist again, she had her biggest breakout hit, with “Sailor Song.” She released it in July 2024, and it went viral on TikTok. Now, it has over a billion streams on Spotify alone, and it’s a part of her new album, which came out in April 2025. In this episode, you’ll hear how the song evolved, from her first voice memo to the final version, which she recorded in her childhood bedroom. I talked to Gigi about how “Sailor Song” came about, and about all the different parts of herself that she put into it—her faith, grief, desire, and more. \nFor more info, visit songexploder.net/gigi-perez.",
-      "country": "USA",
-      "previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/d154be98-5910-43b3-b439-23f7f34c7f60/SongExploder296-GigiPerez-Part1.mp3",
-      "trackTimeMillis": 1495000,
-      "contentAdvisoryRating": "Explicit",
-      "artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
-      "collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
-      "trackViewUrl": "https://podcasts.apple.com/us/podcast/gigi-perez-sailor-song/id788236947?i=1000718690084&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/6f/da/fd6fda02-81ad-2bf5-ea87-dcfc6c12841a/mza_14207303641887478450.jpg/60x60bb.jpg",
-      "episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/d154be98-5910-43b3-b439-23f7f34c7f60/SongExploder296-GigiPerez-Part1.mp3",
-      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/6f/da/fd6fda02-81ad-2bf5-ea87-dcfc6c12841a/mza_14207303641887478450.jpg/600x600bb.jpg",
-      "genres": [
-        {
-          "name": "Music",
-          "id": "1310"
-        }
-      ]
-    },
-    {
-      "artistIds": [
-        850139119
-      ],
-      "episodeFileExtension": "mp3",
-      "episodeContentType": "audio",
-      "episodeGuid": "prx_93_6c54bef1-ddcb-4dca-9f50-fae9a8bfb429",
-      "trackName": "Key Change: Jason Schwartzman on the ‘Rushmore’ soundtrack",
-      "trackId": 1000717540102,
-      "shortDescription": "",
-      "releaseDate": "2025-07-16T15:50:24Z",
-      "feedUrl": "https://feed.songexploder.net/SongExploder",
-      "closedCaptioning": "none",
-      "collectionId": 788236947,
-      "collectionName": "Song Exploder",
-      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c7/7e/89/c77e8967-b0ae-fc95-d2e9-17316c15d199/mza_8554608037620881191.jpg/160x160bb.jpg",
-      "kind": "podcast-episode",
-      "wrapperType": "podcastEpisode",
-      "description": "Jason Schwartzman, actor, songwriter, and musician, talks  about how the soundtrack to 'Rushmore'—his first film—changed his life. I met Jason briefly in 2017, as he was leaving the room where I was supposed to interview the band Phoenix. I was shocked when he stopped on his way out to tell me he loved Song Exploder. Eight years later, I reached out to him to see if he’d want to be a guest on Key Change, and we ended up talking for almost two hours, just on the phone. By the time he came over to record, I felt like I’d met a kindred spirit who’d also been cataloguing his whole life through the songs he’d encountered along the way. The fact that we got to talk about one of my favorite movies, 'Rushmore,' made the experience even more meaningful and thrilling for me.\nFor more, visit songexploder.net/jason-schwartzman.",
-      "country": "USA",
-      "previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/6c54bef1-ddcb-4dca-9f50-fae9a8bfb429/KeyChange6-JasonSchwartzman-Part1.mp3",
-      "trackTimeMillis": 1351000,
-      "contentAdvisoryRating": "Explicit",
-      "artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
-      "collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
-      "trackViewUrl": "https://podcasts.apple.com/us/podcast/key-change-jason-schwartzman-on-the-rushmore-soundtrack/id788236947?i=1000717540102&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c7/7e/89/c77e8967-b0ae-fc95-d2e9-17316c15d199/mza_8554608037620881191.jpg/60x60bb.jpg",
-      "episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/6c54bef1-ddcb-4dca-9f50-fae9a8bfb429/KeyChange6-JasonSchwartzman-Part1.mp3",
-      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c7/7e/89/c77e8967-b0ae-fc95-d2e9-17316c15d199/mza_8554608037620881191.jpg/600x600bb.jpg",
-      "genres": [
-        {
-          "name": "Music",
-          "id": "1310"
-        }
-      ]
-    },
-    {
-      "artistIds": [
-        850139119
-      ],
-      "episodeFileExtension": "mp3",
-      "episodeContentType": "audio",
-      "episodeGuid": "prx_93_deb0722f-e700-4c52-b332-a5707444398e",
-      "trackName": "Goo Goo Dolls - Iris",
-      "trackId": 1000716504742,
-      "shortDescription": "",
-      "releaseDate": "2025-07-09T15:30:02Z",
-      "feedUrl": "https://feed.songexploder.net/SongExploder",
-      "closedCaptioning": "none",
-      "collectionId": 788236947,
-      "collectionName": "Song Exploder",
-      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/22/9f/7c/229f7c76-93c8-d1fd-7771-1c96b8d80e49/mza_13217237905494163213.jpg/160x160bb.jpg",
-      "kind": "podcast-episode",
-      "wrapperType": "podcastEpisode",
-      "description": "Goo Goo Dolls formed in 1986 in Buffalo, New York, and by the time 1998 rolled around, they’d already had a pretty successful career. They’d released five albums, and one of their songs, “Name,” from 1995, had become a Top 10 hit. But things really changed for them when they made the song “Iris.” It originally came out on the soundtrack for the movie City of Angels, which came out in 1998 and starred Nicolas Cage and Meg Ryan. “Iris” spent a record-breaking 18 weeks at number one on the radio, and became one of the best selling songs of all time, with over 14 million copies sold, and over 4.5 billion streams. So for this episode, John Rzeznik of Goo Goo Dolls came over to my place, and he told me about how he wrote the song. He told me how the Grammy-winning producer Rob Cavallo helped them expand their vision, and how the version of the song in the movie isn’t actually the version that everybody knows.\nFor more info, visit songexploder.net/goo-goo-dolls.",
-      "country": "USA",
-      "previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/deb0722f-e700-4c52-b332-a5707444398e/SongExploder295-GooGooDolls-Part1.mp3",
-      "trackTimeMillis": 1614000,
-      "contentAdvisoryRating": "Explicit",
-      "artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
-      "collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
-      "trackViewUrl": "https://podcasts.apple.com/us/podcast/goo-goo-dolls-iris/id788236947?i=1000716504742&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/22/9f/7c/229f7c76-93c8-d1fd-7771-1c96b8d80e49/mza_13217237905494163213.jpg/60x60bb.jpg",
-      "episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/deb0722f-e700-4c52-b332-a5707444398e/SongExploder295-GooGooDolls-Part1.mp3",
-      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/22/9f/7c/229f7c76-93c8-d1fd-7771-1c96b8d80e49/mza_13217237905494163213.jpg/600x600bb.jpg",
-      "genres": [
-        {
-          "name": "Music",
-          "id": "1310"
-        }
-      ]
-    },
-    {
-      "artistIds": [
-        850139119
-      ],
-      "episodeFileExtension": "mp3",
-      "episodeContentType": "audio",
-      "episodeGuid": "prx_93_acf2666a-044a-4539-b891-fd94ff66e270",
-      "trackName": "Little Simz - Free",
-      "trackId": 1000714515997,
-      "shortDescription": "",
-      "releaseDate": "2025-06-25T14:30:00Z",
-      "feedUrl": "https://feed.songexploder.net/SongExploder",
-      "closedCaptioning": "none",
-      "collectionId": 788236947,
-      "collectionName": "Song Exploder",
-      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cd/4a/8c/cd4a8cbb-f17b-5423-f586-28bb335b27e9/mza_15857028770748919325.jpg/160x160bb.jpg",
-      "kind": "podcast-episode",
-      "wrapperType": "podcastEpisode",
-      "description": "Little Simz is a rapper from England who put out her first album in 2015. She’s won the Mercury Prize, a Brit Award, and three MOBO awards. She also starred in the Netflix series Top Boy. Her most recent album is called Lotus. It came out in June 2025, and it followed a pretty tumultuous time in her career. For this episode, I got to talk to Little Simz about one of the songs from that album, called \"Free,\" along with Miles Clinton James, who produced the track. \nThanks to Sonos for their support of the podcast. Check out sonos.com.\nFor more, visit songexploder.net/little-simz.",
-      "country": "USA",
-      "previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/acf2666a-044a-4539-b891-fd94ff66e270/SongExploder294-LittleSimz-Part1.mp3",
-      "trackTimeMillis": 1605000,
-      "contentAdvisoryRating": "Explicit",
-      "artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
-      "collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
-      "trackViewUrl": "https://podcasts.apple.com/us/podcast/little-simz-free/id788236947?i=1000714515997&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cd/4a/8c/cd4a8cbb-f17b-5423-f586-28bb335b27e9/mza_15857028770748919325.jpg/60x60bb.jpg",
-      "episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/acf2666a-044a-4539-b891-fd94ff66e270/SongExploder294-LittleSimz-Part1.mp3",
-      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cd/4a/8c/cd4a8cbb-f17b-5423-f586-28bb335b27e9/mza_15857028770748919325.jpg/600x600bb.jpg",
-      "genres": [
-        {
-          "name": "Music",
-          "id": "1310"
-        }
-      ]
-    },
-    {
-      "artistIds": [
-        850139119
-      ],
-      "episodeFileExtension": "mp3",
-      "episodeContentType": "audio",
-      "episodeGuid": "prx_93_7868ef24-94e9-4c6c-a391-d8b323735ef9",
-      "trackName": "Key Change: Shirley Manson on Siouxsie and the Banshees",
-      "trackId": 1000713467818,
-      "shortDescription": "",
-      "releaseDate": "2025-06-18T18:00:49Z",
-      "feedUrl": "https://feed.songexploder.net/SongExploder",
-      "closedCaptioning": "none",
-      "collectionId": 788236947,
-      "collectionName": "Song Exploder",
-      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/74/f0/b0/74f0b055-94c7-5841-831a-6558df9fe5b2/mza_9733091980679162440.jpg/160x160bb.jpg",
-      "kind": "podcast-episode",
-      "wrapperType": "podcastEpisode",
-      "description": "My guest today is Shirley Manson. Since 1994, she’s been the lead singer of the band Garbage, and she is a bona fide rock icon. The two of us worked together on a different podcast called The Jump, which Shirley hosted and I helped produce. It was a dream of mine to get Shirley as the host of that podcast, partly because, as you’re about to hear, she has one of the greatest voices, and I could listen to her talk about anything. And so I’m especially excited to listen to her today tell me about a song that changed her life. \nThanks to Sonos for their support of the podcast. Check out sonos.com.\nFor more, visit songexploder.net/keychange.\nAnd check out the Song Exploder episode with Garbage from 2014, featuring Shirley and her bandmate Butch Vig talking about how they made their song “Felt.” ",
-      "country": "USA",
-      "previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/7868ef24-94e9-4c6c-a391-d8b323735ef9/KeyChange5-ShirleyManson-Part1.mp3",
-      "trackTimeMillis": 1460000,
-      "contentAdvisoryRating": "Explicit",
-      "artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
-      "collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
-      "trackViewUrl": "https://podcasts.apple.com/us/podcast/key-change-shirley-manson-on-siouxsie-and-the-banshees/id788236947?i=1000713467818&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/74/f0/b0/74f0b055-94c7-5841-831a-6558df9fe5b2/mza_9733091980679162440.jpg/60x60bb.jpg",
-      "episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/7868ef24-94e9-4c6c-a391-d8b323735ef9/KeyChange5-ShirleyManson-Part1.mp3",
-      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/74/f0/b0/74f0b055-94c7-5841-831a-6558df9fe5b2/mza_9733091980679162440.jpg/600x600bb.jpg",
-      "genres": [
-        {
-          "name": "Music",
-          "id": "1310"
-        }
-      ]
-    },
-    {
-      "artistIds": [
-        850139119
-      ],
-      "episodeFileExtension": "mp3",
-      "episodeContentType": "audio",
-      "episodeGuid": "prx_93_0956a253-9420-420c-881d-9344067a1b1a",
-      "trackName": "Anohni - 4 Degrees",
-      "trackId": 1000712449671,
-      "shortDescription": "",
-      "releaseDate": "2025-06-11T15:30:00Z",
-      "feedUrl": "https://feed.songexploder.net/SongExploder",
-      "closedCaptioning": "none",
-      "collectionId": 788236947,
-      "collectionName": "Song Exploder",
-      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d1/24/33/d1243378-5f0d-7df8-378a-43d1f6a0ab5e/mza_4874014457549438687.jpg/160x160bb.jpg",
-      "kind": "podcast-episode",
-      "wrapperType": "podcastEpisode",
-      "description": "Anohni is a singer and songwriter originally from England, who started putting out music in 2000. She’s released 6 albums, and won the Mercury Prize. She’s also been nominated for two Brit Awards, and an Oscar. For this episode, I talked to her about the song \"4 Degrees,\" from her 2016 album Hopelessness. It might be strange to describe a song about climate change as an anthem, but that’s what I think it is, and it feels more urgent with every passing year. It’s also one of my most listened-to songs. It was produced by two of my favorite electronic musicians: Daniel Lopatin, aka Oneohtrix Point Never, and Ross Birchard, aka Hudson Mohawke. I got to speak to Ross about how he started the track on his own, before it became a collaboration between the three of them. This is an episode that I’ve been trying to make happen since 2016. Here it is.\nFor more info, visit songexploder.net/anohni.\nThanks to Sonos for their support of the podcast. Check out sonos.com.",
-      "country": "USA",
-      "previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/0956a253-9420-420c-881d-9344067a1b1a/SongExploder293-Anohni-Part1.mp3",
-      "trackTimeMillis": 1465000,
-      "contentAdvisoryRating": "Clean",
-      "artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
-      "collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
-      "trackViewUrl": "https://podcasts.apple.com/us/podcast/anohni-4-degrees/id788236947?i=1000712449671&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d1/24/33/d1243378-5f0d-7df8-378a-43d1f6a0ab5e/mza_4874014457549438687.jpg/60x60bb.jpg",
-      "episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/0956a253-9420-420c-881d-9344067a1b1a/SongExploder293-Anohni-Part1.mp3",
-      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d1/24/33/d1243378-5f0d-7df8-378a-43d1f6a0ab5e/mza_4874014457549438687.jpg/600x600bb.jpg",
-      "genres": [
-        {
-          "name": "Music",
-          "id": "1310"
-        }
-      ]
-    },
-    {
-      "artistIds": [
-        850139119
-      ],
-      "episodeFileExtension": "mp3",
-      "episodeContentType": "audio",
-      "episodeGuid": "prx_93_0f6db382-7044-4e35-ad3f-28e00530e91a",
-      "trackName": "Jeff Tweedy - How to Write One Song",
-      "trackId": 1000710320250,
-      "shortDescription": "",
-      "releaseDate": "2025-05-28T18:04:56Z",
-      "feedUrl": "https://feed.songexploder.net/SongExploder",
-      "closedCaptioning": "none",
-      "collectionId": 788236947,
-      "collectionName": "Song Exploder",
-      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/02/53/da/0253da6d-c007-7e2a-5c57-fa30f2bd991b/mza_6625912246656700374.jpg/160x160bb.jpg",
-      "kind": "podcast-episode",
-      "wrapperType": "podcastEpisode",
-      "description": "In June 2024, I got to go to the Solid Sound Festival in North Adams, Massachusetts, which is organized by the band Wilco. I performed some of my new songs, and I got to interview Jeff Tweedy, the lead singer of Wilco, on stage as part of the festival. Jeff, in addition to being in Wilco and the band Tweedy, and putting out his solo albums, has also written three books. And this conversation was focused on his second book, which is called How to Write One Song. And even though it’s called How to Write One Song, I think it actually contains a lot of insight about creativity in general, and life in general. I’ve recommended it to friends of mine who aren’t songwriters. And, as you’ll hear, the conversation gets pretty personal for me, because I got so much out of the book personally. It helped me with some of the blocks that I’d been facing in my own songwriting, at a pretty profound level. And when I was listening back to this recording, I’d kind of forgotten about how much I put out there in front of Jeff and the thousands of people who were there watching. But I’m glad the conversation was recorded, partly just so I could revisit it, but also so that I could share it here on Song Exploder. I hope you’ll enjoy it, too.\nYou can buy How to Write One Song by Jeff Tweedy here (via Bookshop.org) or here (via Amazon) or on Wilco's website.\nYou can listen to the Wilco episode of Song Exploder here. I also interviewed Jeff along with his son Spencer, who is also his bandmate in Tweedy, about their relationship and musical partnership, for an episode of my podcast Partners. You can listen to that here.\nThanks to Sonos for their support of the podcast. Check out sonos.com.\nFor more, visit songexploder.net/jeff-tweedy.",
-      "country": "USA",
-      "previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/0f6db382-7044-4e35-ad3f-28e00530e91a/SongExploderSpecial-JeffTweedy.mp3",
-      "trackTimeMillis": 2614000,
-      "contentAdvisoryRating": "Explicit",
-      "artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
-      "collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
-      "trackViewUrl": "https://podcasts.apple.com/us/podcast/jeff-tweedy-how-to-write-one-song/id788236947?i=1000710320250&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/02/53/da/0253da6d-c007-7e2a-5c57-fa30f2bd991b/mza_6625912246656700374.jpg/60x60bb.jpg",
-      "episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/0f6db382-7044-4e35-ad3f-28e00530e91a/SongExploderSpecial-JeffTweedy.mp3",
-      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/02/53/da/0253da6d-c007-7e2a-5c57-fa30f2bd991b/mza_6625912246656700374.jpg/600x600bb.jpg",
-      "genres": [
-        {
-          "name": "Music",
-          "id": "1310"
-        }
-      ]
-    },
-    {
-      "artistIds": [
-        850139119
-      ],
-      "episodeFileExtension": "mp3",
-      "episodeContentType": "audio",
-      "episodeGuid": "prx_93_65db3edd-38c5-42b9-bf21-47d3bf0e38b1",
-      "trackName": "Lorde - Sober",
-      "trackId": 1000709281998,
-      "shortDescription": "",
-      "releaseDate": "2025-05-21T15:00:00Z",
-      "feedUrl": "https://feed.songexploder.net/SongExploder",
-      "closedCaptioning": "none",
-      "collectionId": 788236947,
-      "collectionName": "Song Exploder",
-      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b8/22/9f/b8229f5f-d33a-af67-bdfc-8354b03fcfd9/mza_1473579282870953806.png/160x160bb.jpg",
-      "kind": "podcast-episode",
-      "wrapperType": "podcastEpisode",
-      "description": "Lorde is a Grammy Award-winning singer, songwriter, and producer. Her second album, Melodrama, debuted at number one on the charts in June 2017 – five months before her 21st birthday. In this episode, Ella breaks down her song “Sober.” You’ll hear how it started, with the original demos she made with her co-producer Jack Antonoff, and how the song changed over the course of working on it for months and months.\nThanks to Sonos for their support of the podcast. Check out sonos.com.\nFor more, visit songexploder.net/lorde.",
-      "country": "USA",
-      "previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/65db3edd-38c5-42b9-bf21-47d3bf0e38b1/SongExploder118-Lorde-Reissue.mp3",
-      "trackTimeMillis": 1175000,
-      "contentAdvisoryRating": "Explicit",
-      "artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
-      "collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
-      "trackViewUrl": "https://podcasts.apple.com/us/podcast/lorde-sober/id788236947?i=1000709281998&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b8/22/9f/b8229f5f-d33a-af67-bdfc-8354b03fcfd9/mza_1473579282870953806.png/60x60bb.png",
-      "episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/65db3edd-38c5-42b9-bf21-47d3bf0e38b1/SongExploder118-Lorde-Reissue.mp3",
-      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b8/22/9f/b8229f5f-d33a-af67-bdfc-8354b03fcfd9/mza_1473579282870953806.png/600x600bb.jpg",
-      "genres": [
-        {
-          "name": "Music",
-          "id": "1310"
-        }
-      ]
-    },
-    {
-      "artistIds": [
-        850139119
-      ],
-      "episodeFileExtension": "mp3",
-      "episodeContentType": "audio",
-      "episodeGuid": "prx_93_44824659-db54-44d3-b9e1-691e2bc67018",
-      "trackName": "Tears for Fears - Everybody Wants to Rule the World",
-      "trackId": 1000706681374,
-      "shortDescription": "",
-      "releaseDate": "2025-05-07T15:00:00Z",
-      "feedUrl": "https://feed.songexploder.net/SongExploder",
-      "closedCaptioning": "none",
-      "collectionId": 788236947,
-      "collectionName": "Song Exploder",
-      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/11/82/aa/1182aaa4-b529-650f-03c5-0db329d80696/mza_3127853039243576909.jpg/160x160bb.jpg",
-      "kind": "podcast-episode",
-      "wrapperType": "podcastEpisode",
-      "description": "Tears for Fears is a duo formed in 1981 in Bath, England by Roland Orzabal and Curt Smith. They’ve sold over 30 million albums, starting with their first, The Hurting, which went to number one in the UK. But it was their second album, Songs from the Big Chair, that made them international stars. It came out in 1985, and had huge singles like “Shout” and \"Head Over Heels.” But their biggest hit is “Everybody Wants to Rule the World.” It won Best Single at the BRIT Awards in 1986, and it’s been streamed over 2 billion times. So I talked to the two of them about how they, along with their producer Chris Hughes and keyboard player Ian Stanley, made a song that would help define the sound of the 80s.\nThanks to Sonos for their support of the podcast. Check out sonos.com.\nFor more, visit songexploder.net/tears-for-fears.",
-      "country": "USA",
-      "previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/44824659-db54-44d3-b9e1-691e2bc67018/SongExploder292-TearsForFears.mp3",
-      "trackTimeMillis": 1699000,
-      "contentAdvisoryRating": "Explicit",
-      "artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
-      "collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
-      "trackViewUrl": "https://podcasts.apple.com/us/podcast/tears-for-fears-everybody-wants-to-rule-the-world/id788236947?i=1000706681374&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/11/82/aa/1182aaa4-b529-650f-03c5-0db329d80696/mza_3127853039243576909.jpg/60x60bb.jpg",
-      "episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/44824659-db54-44d3-b9e1-691e2bc67018/SongExploder292-TearsForFears.mp3",
-      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/11/82/aa/1182aaa4-b529-650f-03c5-0db329d80696/mza_3127853039243576909.jpg/600x600bb.jpg",
-      "genres": [
-        {
-          "name": "Music",
-          "id": "1310"
-        }
-      ]
-    },
-    {
-      "artistIds": [
-        850139119
-      ],
-      "episodeFileExtension": "mp3",
-      "episodeContentType": "audio",
-      "episodeGuid": "prx_93_5cdf84fc-9335-47b2-8012-ba901225cd4e",
-      "trackName": "Lizzo - Still Bad",
-      "trackId": 1000704641762,
-      "shortDescription": "Lizzo is a Grammy- and Emmy-winning singer, rapper, songwriter, and actress. She’s been putting out music since 2013, and her last two albums both went platinum. Her fifth album, Love In Real Life, comes out this summer. For this episode, I talked to",
-      "releaseDate": "2025-04-23T19:00:00Z",
-      "feedUrl": "https://feed.songexploder.net/SongExploder",
-      "closedCaptioning": "none",
-      "collectionId": 788236947,
-      "collectionName": "Song Exploder",
-      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/84/8b/ab/848bab73-973b-f01a-b40c-92329b096b2b/mza_17853989911033120983.jpg/160x160bb.jpg",
-      "kind": "podcast-episode",
-      "wrapperType": "podcastEpisode",
-      "description": "Lizzo is a Grammy- and Emmy-winning singer, rapper, songwriter, and actress. She’s been putting out music since 2013, and her last two albums both went platinum. Her fifth album, Love In Real Life, comes out this summer. For this episode, I talked to Lizzo, as well as her longtime collaborator, Grammy-winning producer Ricky Reed, about the making of one of her new songs, “Still Bad.” It wasn’t a straightforward process at all, and coming up, you’ll hear a few of the many, many demos they made on their way to the final song. \nFor more, visit songexploder.net/Lizzo.",
-      "country": "USA",
-      "previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/5cdf84fc-9335-47b2-8012-ba901225cd4e/SongExploder291-Lizzo.mp3",
-      "trackTimeMillis": 1737000,
-      "contentAdvisoryRating": "Explicit",
-      "artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
-      "collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
-      "trackViewUrl": "https://podcasts.apple.com/us/podcast/lizzo-still-bad/id788236947?i=1000704641762&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/84/8b/ab/848bab73-973b-f01a-b40c-92329b096b2b/mza_17853989911033120983.jpg/60x60bb.jpg",
-      "episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/5cdf84fc-9335-47b2-8012-ba901225cd4e/SongExploder291-Lizzo.mp3",
-      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/84/8b/ab/848bab73-973b-f01a-b40c-92329b096b2b/mza_17853989911033120983.jpg/600x600bb.jpg",
-      "genres": [
-        {
-          "name": "Music",
-          "id": "1310"
-        }
-      ]
-    },
-    {
-      "artistIds": [
-        850139119
-      ],
-      "episodeFileExtension": "mp3",
-      "episodeContentType": "audio",
-      "episodeGuid": "prx_93_5ed556e0-07b3-4401-b9ca-2f3b3eccc7d8",
-      "trackName": "Key Change: Samin Nosrat on Ani DiFranco",
-      "trackId": 1000703752513,
-      "shortDescription": "My guest today is my friend Samin Nosrat, the author of the bestselling, award-winning cookbook Salt Fat Acid Heat, and the host and executive producer of the hit Netflix show that's based on it. Her second cookbook comes out this fall, and it's called",
-      "releaseDate": "2025-04-16T15:35:00Z",
-      "feedUrl": "https://feed.songexploder.net/SongExploder",
-      "closedCaptioning": "none",
-      "collectionId": 788236947,
-      "collectionName": "Song Exploder",
-      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/01/48/98/01489818-3dcf-5bf7-7046-312ebdb8adad/mza_2696153456802088505.jpg/160x160bb.jpg",
-      "kind": "podcast-episode",
-      "wrapperType": "podcastEpisode",
-      "description": "My guest today is my friend Samin Nosrat, the author of the bestselling, award-winning cookbook Salt Fat Acid Heat, and the host and executive producer of the hit Netflix show that's based on it. Her second cookbook comes out this fall, and it's called Good Things: Recipes and Rituals to Share With People You Love. \nBack in March 2020, Samin and I started a podcast together called Home Cooking, where we answered people's anxious questions about cooking in the time of the pandemic and lockdown. And we're bringing that podcast back later this year. \nSamin is one of my closest friends. We've been there for each other for all of the most important moments of our lives over the years that we've known each other. But with a total lack of consideration to our friendship, it turns out Samin’s had important moments in her life from before we met. But we're going to make up for lost time, and she's going to talk to me about one of them today.\nFor more, visit songexploder.net/keychange.\nYou can listen to \"Untouchable Face\" by Ani DiFranco here. ",
-      "country": "USA",
-      "previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/5ed556e0-07b3-4401-b9ca-2f3b3eccc7d8/KeyChange4-SaminNosrat.mp3",
-      "trackTimeMillis": 1602000,
-      "contentAdvisoryRating": "Explicit",
-      "artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
-      "collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
-      "trackViewUrl": "https://podcasts.apple.com/us/podcast/key-change-samin-nosrat-on-ani-difranco/id788236947?i=1000703752513&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/01/48/98/01489818-3dcf-5bf7-7046-312ebdb8adad/mza_2696153456802088505.jpg/60x60bb.jpg",
-      "episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/5ed556e0-07b3-4401-b9ca-2f3b3eccc7d8/KeyChange4-SaminNosrat.mp3",
-      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/01/48/98/01489818-3dcf-5bf7-7046-312ebdb8adad/mza_2696153456802088505.jpg/600x600bb.jpg",
-      "genres": [
-        {
-          "name": "Music",
-          "id": "1310"
-        }
-      ]
-    },
-    {
-      "artistIds": [
-        850139119
-      ],
-      "episodeFileExtension": "mp3",
-      "episodeContentType": "audio",
-      "episodeGuid": "prx_93_658921b7-82af-4852-ad01-0c95741ba0c8",
-      "trackName": "MJ Lenderman - You Don't Know The Shape I'm In",
-      "trackId": 1000701917661,
-      "shortDescription": "Jake Lenderman plays and records under the name MJ Lenderman. He put out his first album in 2019. In addition to his solo work, he’s been a member of the band Wednesday, and he’s also featured on the Waxahatchee hit song “Right Back to It.\" In Sep",
-      "releaseDate": "2025-04-02T15:30:00Z",
-      "feedUrl": "https://feed.songexploder.net/SongExploder",
-      "closedCaptioning": "none",
-      "collectionId": 788236947,
-      "collectionName": "Song Exploder",
-      "artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/d4/8c/a6d48c63-550b-96b3-0e76-44596cf77def/mza_14652750770811312532.jpg/160x160bb.jpg",
-      "kind": "podcast-episode",
-      "wrapperType": "podcastEpisode",
-      "description": "Jake Lenderman plays and records under the name MJ Lenderman. He put out his first album in 2019. In addition to his solo work, he’s been a member of the band Wednesday, and he’s also featured on the Waxahatchee hit song “Right Back to It.\" In September 2024, the fourth MJ Lenderman album came out. It’s called Manning Fireworks. The New Yorker named it the best album of the year, and Stereogum, Rolling Stone and Pitchfork all put it in their top ten. For this episode, I talked to Jake about one of the songs from that album, called “You Don’t Know the Shape I’m In.” The song itself took shape in a few different ways. Coming up, you’ll hear the way the song started as a demo, and then how that got fleshed out, and then how it got rebuilt, and then how Jake completely reimagined the whole thing.\nFor more info, visit songexploder.net/mj-lenderman.",
-      "country": "USA",
-      "previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/658921b7-82af-4852-ad01-0c95741ba0c8/SongExploder290-MJLenderman.mp3",
-      "trackTimeMillis": 1654000,
-      "contentAdvisoryRating": "Clean",
-      "artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
-      "collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
-      "trackViewUrl": "https://podcasts.apple.com/us/podcast/mj-lenderman-you-dont-know-the-shape-im-in/id788236947?i=1000701917661&uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/d4/8c/a6d48c63-550b-96b3-0e76-44596cf77def/mza_14652750770811312532.jpg/60x60bb.jpg",
-      "episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/658921b7-82af-4852-ad01-0c95741ba0c8/SongExploder290-MJLenderman.mp3",
-      "artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/d4/8c/a6d48c63-550b-96b3-0e76-44596cf77def/mza_14652750770811312532.jpg/600x600bb.jpg",
-      "genres": [
-        {
-          "name": "Music",
-          "id": "1310"
-        }
-      ]
-    }
-  ]
+	"resultCount": 21,
+	"results": [
+		{
+			"wrapperType": "track",
+			"kind": "podcast",
+			"artistId": 850139119,
+			"collectionId": 788236947,
+			"trackId": 788236947,
+			"artistName": "Hrishikesh Hirway",
+			"collectionName": "Song Exploder",
+			"trackName": "Song Exploder",
+			"collectionCensoredName": "Song Exploder",
+			"trackCensoredName": "Song Exploder",
+			"artistViewUrl": "https://podcasts.apple.com/us/artist/radiotopia/850139119?uo=4",
+			"collectionViewUrl": "https://podcasts.apple.com/us/podcast/song-exploder/id788236947?uo=4",
+			"feedUrl": "https://feed.songexploder.net/SongExploder",
+			"trackViewUrl": "https://podcasts.apple.com/us/podcast/song-exploder/id788236947?uo=4",
+			"artworkUrl30": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/7b/35/057b3588-c74c-0334-d8ef-c6b8166d4afc/mza_12324100546486323942.jpg/30x30bb.jpg",
+			"artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/7b/35/057b3588-c74c-0334-d8ef-c6b8166d4afc/mza_12324100546486323942.jpg/60x60bb.jpg",
+			"artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/7b/35/057b3588-c74c-0334-d8ef-c6b8166d4afc/mza_12324100546486323942.jpg/100x100bb.jpg",
+			"collectionPrice": 0.00,
+			"trackPrice": 0.00,
+			"collectionHdPrice": 0,
+			"releaseDate": "2025-10-15T13:30:00Z",
+			"collectionExplicitness": "notExplicit",
+			"trackExplicitness": "cleaned",
+			"trackCount": 344,
+			"trackTimeMillis": 1914,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Music",
+			"contentAdvisoryRating": "Clean",
+			"artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/05/7b/35/057b3588-c74c-0334-d8ef-c6b8166d4afc/mza_12324100546486323942.jpg/600x600bb.jpg",
+			"genreIds": [
+				"1310",
+				"26"
+			],
+			"genres": [
+				"Music",
+				"Podcasts"
+			]
+		},
+		{
+			"artistIds": [
+				850139119
+			],
+			"episodeFileExtension": "mp3",
+			"episodeContentType": "audio",
+			"episodeGuid": "prx_93_81fa749e-9f25-4249-b45b-80ca9fec5ae7",
+			"trackName": "A-ha - Take On Me",
+			"trackId": 1000731987827,
+			"shortDescription": "",
+			"releaseDate": "2025-10-15T13:30:00Z",
+			"feedUrl": "https://feed.songexploder.net/SongExploder",
+			"closedCaptioning": "none",
+			"collectionId": 788236947,
+			"collectionName": "Song Exploder",
+			"artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ce/e9/71/cee9718b-3e3b-d987-bf2e-611d85f53d3c/mza_15319236781944544497.jpg/160x160bb.jpg",
+			"kind": "podcast-episode",
+			"wrapperType": "podcastEpisode",
+			"description": "\"Take On Me\" by A-ha is an iconic hit of the 1980s. It came out in October 1985 with an equally iconic music video that helped define the age of MTV. It hit #1 in the US and in countries all over the world. And it's still massively popular today. It currently has over two and a half billion streams on Spotify. So, with all of that, it's easy to imagine that this was all inevitable. But actually, the song took so many steps and missteps before it became the hit that everybody knows. I talked to Paul Waaktaar-Savoy from A-ha, who wrote the original bones of the song back when he was a teenager in Norway, years before it came out. The song actually came out and flopped TWICE in the UK, before it found a foothold in the US. So for this episode, Paul took me through the whole history of the song, and all the different versions that existed. And he told me how he and his bandmates, Magne Furuholmen and Morten Harket, pushed and pushed and persevered. \"Take On Me\" was their first single as a band, and it made them the most successful Norwegian pop group of all time.\nFor more info, visit songexploder.net/a-ha.",
+			"country": "USA",
+			"previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/81fa749e-9f25-4249-b45b-80ca9fec5ae7/SongExploder301-A-ha-Part1.mp3",
+			"trackTimeMillis": 1914000,
+			"contentAdvisoryRating": "Clean",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
+			"collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
+			"trackViewUrl": "https://podcasts.apple.com/us/podcast/a-ha-take-on-me/id788236947?i=1000731987827&uo=4",
+			"artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ce/e9/71/cee9718b-3e3b-d987-bf2e-611d85f53d3c/mza_15319236781944544497.jpg/60x60bb.jpg",
+			"episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/81fa749e-9f25-4249-b45b-80ca9fec5ae7/SongExploder301-A-ha-Part1.mp3",
+			"artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ce/e9/71/cee9718b-3e3b-d987-bf2e-611d85f53d3c/mza_15319236781944544497.jpg/600x600bb.jpg",
+			"genres": [
+				{
+					"name": "Music",
+					"id": "1310"
+				}
+			]
+		},
+		{
+			"artistIds": [
+				850139119
+			],
+			"episodeFileExtension": "mp3",
+			"episodeContentType": "audio",
+			"episodeGuid": "prx_93_43251972-8711-4897-9cf3-a289b42d51ba",
+			"trackName": "Lady Gaga - Abracadabra",
+			"trackId": 1000729514706,
+			"shortDescription": "",
+			"releaseDate": "2025-10-01T12:30:00Z",
+			"feedUrl": "https://feed.songexploder.net/SongExploder",
+			"closedCaptioning": "none",
+			"collectionId": 788236947,
+			"collectionName": "Song Exploder",
+			"artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/dd/18/38/dd183843-0d24-06aa-2697-67b871bc4599/mza_5264332681991024990.jpg/160x160bb.jpg",
+			"kind": "podcast-episode",
+			"wrapperType": "podcastEpisode",
+			"description": "Lady Gaga is a singer, songwriter, producer, and actress from New York. She’s one of the biggest artists in the world. She’s also won 14 Grammys, 2 Golden Globes, and an Oscar. And in March 2025, she released her sixth album, Mayhem. For this episode, I talked to her about a song from that album called “Abracadabra.” She co-wrote it and co-produced it with Andrew Watt and Cirkut, and they recorded it in Rick Rubin’s studio, Shangri-La. That’s also where we recorded the interview for this episode.\nFor more info, visit songexploder.net/lady-gaga.",
+			"country": "USA",
+			"previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/43251972-8711-4897-9cf3-a289b42d51ba/SongExploder300-LadyGaga-Part1.mp3",
+			"trackTimeMillis": 1620000,
+			"contentAdvisoryRating": "Clean",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
+			"collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
+			"trackViewUrl": "https://podcasts.apple.com/us/podcast/lady-gaga-abracadabra/id788236947?i=1000729514706&uo=4",
+			"artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/dd/18/38/dd183843-0d24-06aa-2697-67b871bc4599/mza_5264332681991024990.jpg/60x60bb.jpg",
+			"episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/43251972-8711-4897-9cf3-a289b42d51ba/SongExploder300-LadyGaga-Part1.mp3",
+			"artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/dd/18/38/dd183843-0d24-06aa-2697-67b871bc4599/mza_5264332681991024990.jpg/600x600bb.jpg",
+			"genres": [
+				{
+					"name": "Music",
+					"id": "1310"
+				}
+			]
+		},
+		{
+			"artistIds": [
+				850139119
+			],
+			"episodeFileExtension": "mp3",
+			"episodeContentType": "audio",
+			"episodeGuid": "prx_93_7948e34d-2ada-4633-9a6f-89a08507b7e8",
+			"trackName": "Key Change: David Chang on \"I See a Darkness\"",
+			"trackId": 1000728260720,
+			"shortDescription": "",
+			"releaseDate": "2025-09-24T17:00:50Z",
+			"feedUrl": "https://feed.songexploder.net/SongExploder",
+			"closedCaptioning": "none",
+			"collectionId": 788236947,
+			"collectionName": "Song Exploder",
+			"artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/61/f9/e661f9f2-f57d-f3bd-4602-7ec99fb43339/mza_5167469249855200073.jpg/160x160bb.jpg",
+			"kind": "podcast-episode",
+			"wrapperType": "podcastEpisode",
+			"description": "My guest today is Chef David Chang. He founded Momofuku Noodle Bar in 2004. That was just the start of his incredible career – he’s opened several restaurants, winning awards and Michelin stars along the way, and becoming a fixture in the upper echelon of food. He’s the host of the Netflix shows Ugly Delicious and Dinner Time Live, as well as his own podcast, The Dave Chang Show. For this episode, I talked to Dave about the song “I See a Darkness.” It's the title track on the album by Bonnie “Prince” Billy, aka Will Oldham, which came out in 1999. Later, Johnny Cash would cover “I See a Darkness” in 2000, as a duet with Will Oldham, as part of Johnny Cash’s acclaimed American series.\nYou can get Bonnie \"Prince\" Billy’s \"I See a Darkness\" on vinyl or digital here.\nFor more info, visit songexploder.net/david-chang.",
+			"country": "USA",
+			"previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/7948e34d-2ada-4633-9a6f-89a08507b7e8/KeyChange8-DavidChang-Part1.mp3",
+			"trackTimeMillis": 1262000,
+			"contentAdvisoryRating": "Explicit",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
+			"collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
+			"trackViewUrl": "https://podcasts.apple.com/us/podcast/key-change-david-chang-on-i-see-a-darkness/id788236947?i=1000728260720&uo=4",
+			"artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/61/f9/e661f9f2-f57d-f3bd-4602-7ec99fb43339/mza_5167469249855200073.jpg/60x60bb.jpg",
+			"episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/7948e34d-2ada-4633-9a6f-89a08507b7e8/KeyChange8-DavidChang-Part1.mp3",
+			"artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e6/61/f9/e661f9f2-f57d-f3bd-4602-7ec99fb43339/mza_5167469249855200073.jpg/600x600bb.jpg",
+			"genres": [
+				{
+					"name": "Music",
+					"id": "1310"
+				}
+			]
+		},
+		{
+			"artistIds": [
+				850139119
+			],
+			"episodeFileExtension": "mp3",
+			"episodeContentType": "audio",
+			"episodeGuid": "prx_93_ea7e7ccd-1d42-410a-b6a2-ebb3938e4b46",
+			"trackName": "Ethel Cain - Nettles",
+			"trackId": 1000727212828,
+			"shortDescription": "",
+			"releaseDate": "2025-09-17T15:00:00Z",
+			"feedUrl": "https://feed.songexploder.net/SongExploder",
+			"closedCaptioning": "none",
+			"collectionId": 788236947,
+			"collectionName": "Song Exploder",
+			"artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7b/ce/15/7bce15cd-243e-a944-b931-cd95820e7ba4/mza_6023624965045716324.jpg/160x160bb.jpg",
+			"kind": "podcast-episode",
+			"wrapperType": "podcastEpisode",
+			"description": "Hayden Anhedönia has been making music under the name Ethel Cain since 2019. But it’s not just a band name or a moniker; Ethel Cain is a fictional character, a sort of alter ego that Hayden’s been creating and world building around throughout her albums. The first Ethel Cain album, Preacher’s Daughter, came out in 2022. It ended up blowing up, and it made Hayden the first openly trans artist with an album in the top ten on the Billboard chart. In 2025, she put out the second Ethel Cain album, called Willoughby Tucker, I’ll Always Love You. For this episode, I talked to Hayden about how she made the song “Nettles.” As you’re about to hear, it took on a lot of different forms, over several years, before she got to the final version. \nFor more info, visit songexploder.net/ethel-cain.",
+			"country": "USA",
+			"previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/ea7e7ccd-1d42-410a-b6a2-ebb3938e4b46/SongExploder299-EthelCain-Part1.mp3",
+			"trackTimeMillis": 1877000,
+			"contentAdvisoryRating": "Clean",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
+			"collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
+			"trackViewUrl": "https://podcasts.apple.com/us/podcast/ethel-cain-nettles/id788236947?i=1000727212828&uo=4",
+			"artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7b/ce/15/7bce15cd-243e-a944-b931-cd95820e7ba4/mza_6023624965045716324.jpg/60x60bb.jpg",
+			"episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/ea7e7ccd-1d42-410a-b6a2-ebb3938e4b46/SongExploder299-EthelCain-Part1.mp3",
+			"artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7b/ce/15/7bce15cd-243e-a944-b931-cd95820e7ba4/mza_6023624965045716324.jpg/600x600bb.jpg",
+			"genres": [
+				{
+					"name": "Music",
+					"id": "1310"
+				}
+			]
+		},
+		{
+			"artistIds": [
+				850139119
+			],
+			"episodeFileExtension": "mp3",
+			"episodeContentType": "audio",
+			"episodeGuid": "prx_93_e6c4d6cd-0dfb-4c3f-bca3-777bd2d0b058",
+			"trackName": "Sam Fender - People Watching",
+			"trackId": 1000724791101,
+			"shortDescription": "",
+			"releaseDate": "2025-09-03T15:37:42Z",
+			"feedUrl": "https://feed.songexploder.net/SongExploder",
+			"closedCaptioning": "none",
+			"collectionId": 788236947,
+			"collectionName": "Song Exploder",
+			"artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/48/1b/8b/481b8bb4-41d2-274d-d917-55872c58448a/mza_2857179328129319242.jpg/160x160bb.jpg",
+			"kind": "podcast-episode",
+			"wrapperType": "podcastEpisode",
+			"description": "Sam Fender is a singer and songwriter from the town of North Shields in England. He won the Brit Award for Best Rock/Alternative Act twice. His most recent album is called People Watching, and just like his first two albums, it went to #1 on the UK album charts. To help produce the album, Sam enlisted Adam Granduciel, the singer and frontman of the band The War on Drugs. For this episode, I talked to Sam, and his bandmate Joe Atkinson, about the title track from People Watching, and the long journey that it took to get made, from Sam’s kitchen, to the Hollywood Hills, to Abbey Road.",
+			"country": "USA",
+			"previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/e6c4d6cd-0dfb-4c3f-bca3-777bd2d0b058/SongExploder298-SamFender-Part1.mp3",
+			"trackTimeMillis": 1956000,
+			"contentAdvisoryRating": "Explicit",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
+			"collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
+			"trackViewUrl": "https://podcasts.apple.com/us/podcast/sam-fender-people-watching/id788236947?i=1000724791101&uo=4",
+			"artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/48/1b/8b/481b8bb4-41d2-274d-d917-55872c58448a/mza_2857179328129319242.jpg/60x60bb.jpg",
+			"episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/e6c4d6cd-0dfb-4c3f-bca3-777bd2d0b058/SongExploder298-SamFender-Part1.mp3",
+			"artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/48/1b/8b/481b8bb4-41d2-274d-d917-55872c58448a/mza_2857179328129319242.jpg/600x600bb.jpg",
+			"genres": [
+				{
+					"name": "Music",
+					"id": "1310"
+				}
+			]
+		},
+		{
+			"artistIds": [
+				850139119
+			],
+			"episodeFileExtension": "mp3",
+			"episodeContentType": "audio",
+			"episodeGuid": "prx_93_32b2b0b8-106f-4e6f-b2f0-dfa1f7fa6024",
+			"trackName": "Key Change: Jia Tolentino on \"I Love You Always Forever\"",
+			"trackId": 1000723787228,
+			"shortDescription": "",
+			"releaseDate": "2025-08-27T19:00:00Z",
+			"feedUrl": "https://feed.songexploder.net/SongExploder",
+			"closedCaptioning": "none",
+			"collectionId": 788236947,
+			"collectionName": "Song Exploder",
+			"artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c5/06/8b/c5068b6c-6236-d6ca-5a56-010a43887460/mza_9315056033474473403.jpg/160x160bb.jpg",
+			"kind": "podcast-episode",
+			"wrapperType": "podcastEpisode",
+			"description": "My guest today is Jia Tolentino. Jia is the author of the essay collection Trick Mirror, which was named one of the best books of 2019 by The New York Times Book Review, NPR, The Paris Review, and more. She won a National Magazine Award for her work at the New Yorker, where she’s been a staff writer since 2016. Her writing covers so many different topics, from Roe V. Wade to the internet to pop culture and music. And today, we’re going to talk about the 1996 pop hit “I Love You Always Forever” by Donna Lewis. \nFor more, visit songexploder.net/jia-tolentino.",
+			"country": "USA",
+			"previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/32b2b0b8-106f-4e6f-b2f0-dfa1f7fa6024/KeyChange7-Jia_Tolentino-Part1.mp3",
+			"trackTimeMillis": 1036000,
+			"contentAdvisoryRating": "Explicit",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
+			"collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
+			"trackViewUrl": "https://podcasts.apple.com/us/podcast/key-change-jia-tolentino-on-i-love-you-always-forever/id788236947?i=1000723787228&uo=4",
+			"artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c5/06/8b/c5068b6c-6236-d6ca-5a56-010a43887460/mza_9315056033474473403.jpg/60x60bb.jpg",
+			"episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/32b2b0b8-106f-4e6f-b2f0-dfa1f7fa6024/KeyChange7-Jia_Tolentino-Part1.mp3",
+			"artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c5/06/8b/c5068b6c-6236-d6ca-5a56-010a43887460/mza_9315056033474473403.jpg/600x600bb.jpg",
+			"genres": [
+				{
+					"name": "Music",
+					"id": "1310"
+				}
+			]
+		},
+		{
+			"artistIds": [
+				850139119
+			],
+			"episodeFileExtension": "mp3",
+			"episodeContentType": "audio",
+			"episodeGuid": "prx_93_907ad5ed-946c-4f3c-b6dd-d545dfc4a9c3",
+			"trackName": "Jay Som - Tenderness",
+			"trackId": 1000722833953,
+			"shortDescription": "",
+			"releaseDate": "2025-08-20T17:11:28Z",
+			"feedUrl": "https://feed.songexploder.net/SongExploder",
+			"closedCaptioning": "none",
+			"collectionId": 788236947,
+			"collectionName": "Song Exploder",
+			"artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/c6/43/04c6430d-8efd-c23e-8ab2-a6d251b862fa/mza_3623827056234332335.jpg/160x160bb.jpg",
+			"kind": "podcast-episode",
+			"wrapperType": "podcastEpisode",
+			"description": "Melina Duterte goes by the name Jay Som. She’s a singer, songwriter, and multi-instrumentalist. She’s released three albums as Jay Som, and has produced, engineered, and mixed each one.\nHer third album, Anak Ko, came out in August 2019. And in this episode, Melina breaks down a song from it called “Tenderness.”\nTo learn more, visit songexploder.net/jay-som.",
+			"country": "USA",
+			"previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/907ad5ed-946c-4f3c-b6dd-d545dfc4a9c3/SongExploder172-JaySom-Reissue-Part1.mp3",
+			"trackTimeMillis": 1107000,
+			"contentAdvisoryRating": "Clean",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
+			"collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
+			"trackViewUrl": "https://podcasts.apple.com/us/podcast/jay-som-tenderness/id788236947?i=1000722833953&uo=4",
+			"artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/c6/43/04c6430d-8efd-c23e-8ab2-a6d251b862fa/mza_3623827056234332335.jpg/60x60bb.jpg",
+			"episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/907ad5ed-946c-4f3c-b6dd-d545dfc4a9c3/SongExploder172-JaySom-Reissue-Part1.mp3",
+			"artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/c6/43/04c6430d-8efd-c23e-8ab2-a6d251b862fa/mza_3623827056234332335.jpg/600x600bb.jpg",
+			"genres": [
+				{
+					"name": "Music",
+					"id": "1310"
+				}
+			]
+		},
+		{
+			"artistIds": [
+				850139119
+			],
+			"episodeFileExtension": "mp3",
+			"episodeContentType": "audio",
+			"episodeGuid": "prx_93_107a3647-e6f9-4095-945e-10ccc812c500",
+			"trackName": "Fall Out Boy - Sugar, We're Goin Down",
+			"trackId": 1000720901339,
+			"shortDescription": "",
+			"releaseDate": "2025-08-06T14:00:00Z",
+			"feedUrl": "https://feed.songexploder.net/SongExploder",
+			"closedCaptioning": "none",
+			"collectionId": 788236947,
+			"collectionName": "Song Exploder",
+			"artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ec/1b/34/ec1b34ae-a9b4-5356-23ef-3bd245065f77/mza_10063443202890305002.jpg/160x160bb.jpg",
+			"kind": "podcast-episode",
+			"wrapperType": "podcastEpisode",
+			"description": "Fall Out Boy is a band from Chicago that formed in 2001. Their first album, Take This To Your Grave, was a hit, especially in the punk rock world. When they put out their second album, though, in 2005, that was on a whole other scale. That album is called From Under the Cork Tree, and it went double platinum, and they were nominated for a Grammy for Best New Artist. For this episode, I talked to the band’s singer, Patrick Stump, about how they made their breakout hit from that album, the song “Sugar, We’re Goin Down.” \nFor more info, visit songexploder.net/fall-out-boy.",
+			"country": "USA",
+			"previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/107a3647-e6f9-4095-945e-10ccc812c500/SongExploder297-FallOutBoy-Part1.mp3",
+			"trackTimeMillis": 1882000,
+			"contentAdvisoryRating": "Clean",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
+			"collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
+			"trackViewUrl": "https://podcasts.apple.com/us/podcast/fall-out-boy-sugar-were-goin-down/id788236947?i=1000720901339&uo=4",
+			"artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ec/1b/34/ec1b34ae-a9b4-5356-23ef-3bd245065f77/mza_10063443202890305002.jpg/60x60bb.jpg",
+			"episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/107a3647-e6f9-4095-945e-10ccc812c500/SongExploder297-FallOutBoy-Part1.mp3",
+			"artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ec/1b/34/ec1b34ae-a9b4-5356-23ef-3bd245065f77/mza_10063443202890305002.jpg/600x600bb.jpg",
+			"genres": [
+				{
+					"name": "Music",
+					"id": "1310"
+				}
+			]
+		},
+		{
+			"artistIds": [
+				850139119
+			],
+			"episodeFileExtension": "mp3",
+			"episodeContentType": "audio",
+			"episodeGuid": "prx_93_d154be98-5910-43b3-b439-23f7f34c7f60",
+			"trackName": "Gigi Perez - Sailor Song",
+			"trackId": 1000718690084,
+			"shortDescription": "",
+			"releaseDate": "2025-07-23T15:00:00Z",
+			"feedUrl": "https://feed.songexploder.net/SongExploder",
+			"closedCaptioning": "none",
+			"collectionId": 788236947,
+			"collectionName": "Song Exploder",
+			"artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/6f/da/fd6fda02-81ad-2bf5-ea87-dcfc6c12841a/mza_14207303641887478450.jpg/160x160bb.jpg",
+			"kind": "podcast-episode",
+			"wrapperType": "podcastEpisode",
+			"description": "Gigi Perez is a singer and songwriter from Florida, and at 25 years old, she’s already had so many ups and downs in her music career. She started sharing her songs on TikTok, where they got enough attention that she got signed to a major label deal, but that ultimately didn’t pan out. Soon after that, as an independent artist again, she had her biggest breakout hit, with “Sailor Song.” She released it in July 2024, and it went viral on TikTok. Now, it has over a billion streams on Spotify alone, and it’s a part of her new album, which came out in April 2025. In this episode, you’ll hear how the song evolved, from her first voice memo to the final version, which she recorded in her childhood bedroom. I talked to Gigi about how “Sailor Song” came about, and about all the different parts of herself that she put into it—her faith, grief, desire, and more. \nFor more info, visit songexploder.net/gigi-perez.",
+			"country": "USA",
+			"previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/d154be98-5910-43b3-b439-23f7f34c7f60/SongExploder296-GigiPerez-Part1.mp3",
+			"trackTimeMillis": 1495000,
+			"contentAdvisoryRating": "Explicit",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
+			"collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
+			"trackViewUrl": "https://podcasts.apple.com/us/podcast/gigi-perez-sailor-song/id788236947?i=1000718690084&uo=4",
+			"artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/6f/da/fd6fda02-81ad-2bf5-ea87-dcfc6c12841a/mza_14207303641887478450.jpg/60x60bb.jpg",
+			"episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/d154be98-5910-43b3-b439-23f7f34c7f60/SongExploder296-GigiPerez-Part1.mp3",
+			"artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/6f/da/fd6fda02-81ad-2bf5-ea87-dcfc6c12841a/mza_14207303641887478450.jpg/600x600bb.jpg",
+			"genres": [
+				{
+					"name": "Music",
+					"id": "1310"
+				}
+			]
+		},
+		{
+			"artistIds": [
+				850139119
+			],
+			"episodeFileExtension": "mp3",
+			"episodeContentType": "audio",
+			"episodeGuid": "prx_93_6c54bef1-ddcb-4dca-9f50-fae9a8bfb429",
+			"trackName": "Key Change: Jason Schwartzman on the ‘Rushmore’ soundtrack",
+			"trackId": 1000717540102,
+			"shortDescription": "",
+			"releaseDate": "2025-07-16T15:50:24Z",
+			"feedUrl": "https://feed.songexploder.net/SongExploder",
+			"closedCaptioning": "none",
+			"collectionId": 788236947,
+			"collectionName": "Song Exploder",
+			"artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c7/7e/89/c77e8967-b0ae-fc95-d2e9-17316c15d199/mza_8554608037620881191.jpg/160x160bb.jpg",
+			"kind": "podcast-episode",
+			"wrapperType": "podcastEpisode",
+			"description": "Jason Schwartzman, actor, songwriter, and musician, talks  about how the soundtrack to 'Rushmore'—his first film—changed his life. I met Jason briefly in 2017, as he was leaving the room where I was supposed to interview the band Phoenix. I was shocked when he stopped on his way out to tell me he loved Song Exploder. Eight years later, I reached out to him to see if he’d want to be a guest on Key Change, and we ended up talking for almost two hours, just on the phone. By the time he came over to record, I felt like I’d met a kindred spirit who’d also been cataloguing his whole life through the songs he’d encountered along the way. The fact that we got to talk about one of my favorite movies, 'Rushmore,' made the experience even more meaningful and thrilling for me.\nFor more, visit songexploder.net/jason-schwartzman.",
+			"country": "USA",
+			"previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/6c54bef1-ddcb-4dca-9f50-fae9a8bfb429/KeyChange6-JasonSchwartzman-Part1.mp3",
+			"trackTimeMillis": 1351000,
+			"contentAdvisoryRating": "Explicit",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
+			"collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
+			"trackViewUrl": "https://podcasts.apple.com/us/podcast/key-change-jason-schwartzman-on-the-rushmore-soundtrack/id788236947?i=1000717540102&uo=4",
+			"artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c7/7e/89/c77e8967-b0ae-fc95-d2e9-17316c15d199/mza_8554608037620881191.jpg/60x60bb.jpg",
+			"episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/6c54bef1-ddcb-4dca-9f50-fae9a8bfb429/KeyChange6-JasonSchwartzman-Part1.mp3",
+			"artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c7/7e/89/c77e8967-b0ae-fc95-d2e9-17316c15d199/mza_8554608037620881191.jpg/600x600bb.jpg",
+			"genres": [
+				{
+					"name": "Music",
+					"id": "1310"
+				}
+			]
+		},
+		{
+			"artistIds": [
+				850139119
+			],
+			"episodeFileExtension": "mp3",
+			"episodeContentType": "audio",
+			"episodeGuid": "prx_93_deb0722f-e700-4c52-b332-a5707444398e",
+			"trackName": "Goo Goo Dolls - Iris",
+			"trackId": 1000716504742,
+			"shortDescription": "",
+			"releaseDate": "2025-07-09T15:30:02Z",
+			"feedUrl": "https://feed.songexploder.net/SongExploder",
+			"closedCaptioning": "none",
+			"collectionId": 788236947,
+			"collectionName": "Song Exploder",
+			"artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/22/9f/7c/229f7c76-93c8-d1fd-7771-1c96b8d80e49/mza_13217237905494163213.jpg/160x160bb.jpg",
+			"kind": "podcast-episode",
+			"wrapperType": "podcastEpisode",
+			"description": "Goo Goo Dolls formed in 1986 in Buffalo, New York, and by the time 1998 rolled around, they’d already had a pretty successful career. They’d released five albums, and one of their songs, “Name,” from 1995, had become a Top 10 hit. But things really changed for them when they made the song “Iris.” It originally came out on the soundtrack for the movie City of Angels, which came out in 1998 and starred Nicolas Cage and Meg Ryan. “Iris” spent a record-breaking 18 weeks at number one on the radio, and became one of the best selling songs of all time, with over 14 million copies sold, and over 4.5 billion streams. So for this episode, John Rzeznik of Goo Goo Dolls came over to my place, and he told me about how he wrote the song. He told me how the Grammy-winning producer Rob Cavallo helped them expand their vision, and how the version of the song in the movie isn’t actually the version that everybody knows.\nFor more info, visit songexploder.net/goo-goo-dolls.",
+			"country": "USA",
+			"previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/deb0722f-e700-4c52-b332-a5707444398e/SongExploder295-GooGooDolls-Part1.mp3",
+			"trackTimeMillis": 1614000,
+			"contentAdvisoryRating": "Explicit",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
+			"collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
+			"trackViewUrl": "https://podcasts.apple.com/us/podcast/goo-goo-dolls-iris/id788236947?i=1000716504742&uo=4",
+			"artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/22/9f/7c/229f7c76-93c8-d1fd-7771-1c96b8d80e49/mza_13217237905494163213.jpg/60x60bb.jpg",
+			"episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/deb0722f-e700-4c52-b332-a5707444398e/SongExploder295-GooGooDolls-Part1.mp3",
+			"artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/22/9f/7c/229f7c76-93c8-d1fd-7771-1c96b8d80e49/mza_13217237905494163213.jpg/600x600bb.jpg",
+			"genres": [
+				{
+					"name": "Music",
+					"id": "1310"
+				}
+			]
+		},
+		{
+			"artistIds": [
+				850139119
+			],
+			"episodeFileExtension": "mp3",
+			"episodeContentType": "audio",
+			"episodeGuid": "prx_93_acf2666a-044a-4539-b891-fd94ff66e270",
+			"trackName": "Little Simz - Free",
+			"trackId": 1000714515997,
+			"shortDescription": "",
+			"releaseDate": "2025-06-25T14:30:00Z",
+			"feedUrl": "https://feed.songexploder.net/SongExploder",
+			"closedCaptioning": "none",
+			"collectionId": 788236947,
+			"collectionName": "Song Exploder",
+			"artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cd/4a/8c/cd4a8cbb-f17b-5423-f586-28bb335b27e9/mza_15857028770748919325.jpg/160x160bb.jpg",
+			"kind": "podcast-episode",
+			"wrapperType": "podcastEpisode",
+			"description": "Little Simz is a rapper from England who put out her first album in 2015. She’s won the Mercury Prize, a Brit Award, and three MOBO awards. She also starred in the Netflix series Top Boy. Her most recent album is called Lotus. It came out in June 2025, and it followed a pretty tumultuous time in her career. For this episode, I got to talk to Little Simz about one of the songs from that album, called \"Free,\" along with Miles Clinton James, who produced the track. \nThanks to Sonos for their support of the podcast. Check out sonos.com.\nFor more, visit songexploder.net/little-simz.",
+			"country": "USA",
+			"previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/acf2666a-044a-4539-b891-fd94ff66e270/SongExploder294-LittleSimz-Part1.mp3",
+			"trackTimeMillis": 1605000,
+			"contentAdvisoryRating": "Explicit",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
+			"collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
+			"trackViewUrl": "https://podcasts.apple.com/us/podcast/little-simz-free/id788236947?i=1000714515997&uo=4",
+			"artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cd/4a/8c/cd4a8cbb-f17b-5423-f586-28bb335b27e9/mza_15857028770748919325.jpg/60x60bb.jpg",
+			"episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/acf2666a-044a-4539-b891-fd94ff66e270/SongExploder294-LittleSimz-Part1.mp3",
+			"artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cd/4a/8c/cd4a8cbb-f17b-5423-f586-28bb335b27e9/mza_15857028770748919325.jpg/600x600bb.jpg",
+			"genres": [
+				{
+					"name": "Music",
+					"id": "1310"
+				}
+			]
+		},
+		{
+			"artistIds": [
+				850139119
+			],
+			"episodeFileExtension": "mp3",
+			"episodeContentType": "audio",
+			"episodeGuid": "prx_93_7868ef24-94e9-4c6c-a391-d8b323735ef9",
+			"trackName": "Key Change: Shirley Manson on Siouxsie and the Banshees",
+			"trackId": 1000713467818,
+			"shortDescription": "",
+			"releaseDate": "2025-06-18T18:00:49Z",
+			"feedUrl": "https://feed.songexploder.net/SongExploder",
+			"closedCaptioning": "none",
+			"collectionId": 788236947,
+			"collectionName": "Song Exploder",
+			"artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/74/f0/b0/74f0b055-94c7-5841-831a-6558df9fe5b2/mza_9733091980679162440.jpg/160x160bb.jpg",
+			"kind": "podcast-episode",
+			"wrapperType": "podcastEpisode",
+			"description": "My guest today is Shirley Manson. Since 1994, she’s been the lead singer of the band Garbage, and she is a bona fide rock icon. The two of us worked together on a different podcast called The Jump, which Shirley hosted and I helped produce. It was a dream of mine to get Shirley as the host of that podcast, partly because, as you’re about to hear, she has one of the greatest voices, and I could listen to her talk about anything. And so I’m especially excited to listen to her today tell me about a song that changed her life. \nThanks to Sonos for their support of the podcast. Check out sonos.com.\nFor more, visit songexploder.net/keychange.\nAnd check out the Song Exploder episode with Garbage from 2014, featuring Shirley and her bandmate Butch Vig talking about how they made their song “Felt.” ",
+			"country": "USA",
+			"previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/7868ef24-94e9-4c6c-a391-d8b323735ef9/KeyChange5-ShirleyManson-Part1.mp3",
+			"trackTimeMillis": 1460000,
+			"contentAdvisoryRating": "Explicit",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
+			"collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
+			"trackViewUrl": "https://podcasts.apple.com/us/podcast/key-change-shirley-manson-on-siouxsie-and-the-banshees/id788236947?i=1000713467818&uo=4",
+			"artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/74/f0/b0/74f0b055-94c7-5841-831a-6558df9fe5b2/mza_9733091980679162440.jpg/60x60bb.jpg",
+			"episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/7868ef24-94e9-4c6c-a391-d8b323735ef9/KeyChange5-ShirleyManson-Part1.mp3",
+			"artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/74/f0/b0/74f0b055-94c7-5841-831a-6558df9fe5b2/mza_9733091980679162440.jpg/600x600bb.jpg",
+			"genres": [
+				{
+					"name": "Music",
+					"id": "1310"
+				}
+			]
+		},
+		{
+			"artistIds": [
+				850139119
+			],
+			"episodeFileExtension": "mp3",
+			"episodeContentType": "audio",
+			"episodeGuid": "prx_93_0956a253-9420-420c-881d-9344067a1b1a",
+			"trackName": "Anohni - 4 Degrees",
+			"trackId": 1000712449671,
+			"shortDescription": "",
+			"releaseDate": "2025-06-11T15:30:00Z",
+			"feedUrl": "https://feed.songexploder.net/SongExploder",
+			"closedCaptioning": "none",
+			"collectionId": 788236947,
+			"collectionName": "Song Exploder",
+			"artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d1/24/33/d1243378-5f0d-7df8-378a-43d1f6a0ab5e/mza_4874014457549438687.jpg/160x160bb.jpg",
+			"kind": "podcast-episode",
+			"wrapperType": "podcastEpisode",
+			"description": "Anohni is a singer and songwriter originally from England, who started putting out music in 2000. She’s released 6 albums, and won the Mercury Prize. She’s also been nominated for two Brit Awards, and an Oscar. For this episode, I talked to her about the song \"4 Degrees,\" from her 2016 album Hopelessness. It might be strange to describe a song about climate change as an anthem, but that’s what I think it is, and it feels more urgent with every passing year. It’s also one of my most listened-to songs. It was produced by two of my favorite electronic musicians: Daniel Lopatin, aka Oneohtrix Point Never, and Ross Birchard, aka Hudson Mohawke. I got to speak to Ross about how he started the track on his own, before it became a collaboration between the three of them. This is an episode that I’ve been trying to make happen since 2016. Here it is.\nFor more info, visit songexploder.net/anohni.\nThanks to Sonos for their support of the podcast. Check out sonos.com.",
+			"country": "USA",
+			"previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/0956a253-9420-420c-881d-9344067a1b1a/SongExploder293-Anohni-Part1.mp3",
+			"trackTimeMillis": 1465000,
+			"contentAdvisoryRating": "Clean",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
+			"collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
+			"trackViewUrl": "https://podcasts.apple.com/us/podcast/anohni-4-degrees/id788236947?i=1000712449671&uo=4",
+			"artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d1/24/33/d1243378-5f0d-7df8-378a-43d1f6a0ab5e/mza_4874014457549438687.jpg/60x60bb.jpg",
+			"episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/0956a253-9420-420c-881d-9344067a1b1a/SongExploder293-Anohni-Part1.mp3",
+			"artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d1/24/33/d1243378-5f0d-7df8-378a-43d1f6a0ab5e/mza_4874014457549438687.jpg/600x600bb.jpg",
+			"genres": [
+				{
+					"name": "Music",
+					"id": "1310"
+				}
+			]
+		},
+		{
+			"artistIds": [
+				850139119
+			],
+			"episodeFileExtension": "mp3",
+			"episodeContentType": "audio",
+			"episodeGuid": "prx_93_0f6db382-7044-4e35-ad3f-28e00530e91a",
+			"trackName": "Jeff Tweedy - How to Write One Song",
+			"trackId": 1000710320250,
+			"shortDescription": "",
+			"releaseDate": "2025-05-28T18:04:56Z",
+			"feedUrl": "https://feed.songexploder.net/SongExploder",
+			"closedCaptioning": "none",
+			"collectionId": 788236947,
+			"collectionName": "Song Exploder",
+			"artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/02/53/da/0253da6d-c007-7e2a-5c57-fa30f2bd991b/mza_6625912246656700374.jpg/160x160bb.jpg",
+			"kind": "podcast-episode",
+			"wrapperType": "podcastEpisode",
+			"description": "In June 2024, I got to go to the Solid Sound Festival in North Adams, Massachusetts, which is organized by the band Wilco. I performed some of my new songs, and I got to interview Jeff Tweedy, the lead singer of Wilco, on stage as part of the festival. Jeff, in addition to being in Wilco and the band Tweedy, and putting out his solo albums, has also written three books. And this conversation was focused on his second book, which is called How to Write One Song. And even though it’s called How to Write One Song, I think it actually contains a lot of insight about creativity in general, and life in general. I’ve recommended it to friends of mine who aren’t songwriters. And, as you’ll hear, the conversation gets pretty personal for me, because I got so much out of the book personally. It helped me with some of the blocks that I’d been facing in my own songwriting, at a pretty profound level. And when I was listening back to this recording, I’d kind of forgotten about how much I put out there in front of Jeff and the thousands of people who were there watching. But I’m glad the conversation was recorded, partly just so I could revisit it, but also so that I could share it here on Song Exploder. I hope you’ll enjoy it, too.\nYou can buy How to Write One Song by Jeff Tweedy here (via Bookshop.org) or here (via Amazon) or on Wilco's website.\nYou can listen to the Wilco episode of Song Exploder here. I also interviewed Jeff along with his son Spencer, who is also his bandmate in Tweedy, about their relationship and musical partnership, for an episode of my podcast Partners. You can listen to that here.\nThanks to Sonos for their support of the podcast. Check out sonos.com.\nFor more, visit songexploder.net/jeff-tweedy.",
+			"country": "USA",
+			"previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/0f6db382-7044-4e35-ad3f-28e00530e91a/SongExploderSpecial-JeffTweedy.mp3",
+			"trackTimeMillis": 2614000,
+			"contentAdvisoryRating": "Explicit",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
+			"collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
+			"trackViewUrl": "https://podcasts.apple.com/us/podcast/jeff-tweedy-how-to-write-one-song/id788236947?i=1000710320250&uo=4",
+			"artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/02/53/da/0253da6d-c007-7e2a-5c57-fa30f2bd991b/mza_6625912246656700374.jpg/60x60bb.jpg",
+			"episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/0f6db382-7044-4e35-ad3f-28e00530e91a/SongExploderSpecial-JeffTweedy.mp3",
+			"artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/02/53/da/0253da6d-c007-7e2a-5c57-fa30f2bd991b/mza_6625912246656700374.jpg/600x600bb.jpg",
+			"genres": [
+				{
+					"name": "Music",
+					"id": "1310"
+				}
+			]
+		},
+		{
+			"artistIds": [
+				850139119
+			],
+			"episodeFileExtension": "mp3",
+			"episodeContentType": "audio",
+			"episodeGuid": "prx_93_65db3edd-38c5-42b9-bf21-47d3bf0e38b1",
+			"trackName": "Lorde - Sober",
+			"trackId": 1000709281998,
+			"shortDescription": "",
+			"releaseDate": "2025-05-21T15:00:00Z",
+			"feedUrl": "https://feed.songexploder.net/SongExploder",
+			"closedCaptioning": "none",
+			"collectionId": 788236947,
+			"collectionName": "Song Exploder",
+			"artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b8/22/9f/b8229f5f-d33a-af67-bdfc-8354b03fcfd9/mza_1473579282870953806.png/160x160bb.jpg",
+			"kind": "podcast-episode",
+			"wrapperType": "podcastEpisode",
+			"description": "Lorde is a Grammy Award-winning singer, songwriter, and producer. Her second album, Melodrama, debuted at number one on the charts in June 2017 – five months before her 21st birthday. In this episode, Ella breaks down her song “Sober.” You’ll hear how it started, with the original demos she made with her co-producer Jack Antonoff, and how the song changed over the course of working on it for months and months.\nThanks to Sonos for their support of the podcast. Check out sonos.com.\nFor more, visit songexploder.net/lorde.",
+			"country": "USA",
+			"previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/65db3edd-38c5-42b9-bf21-47d3bf0e38b1/SongExploder118-Lorde-Reissue.mp3",
+			"trackTimeMillis": 1175000,
+			"contentAdvisoryRating": "Explicit",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
+			"collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
+			"trackViewUrl": "https://podcasts.apple.com/us/podcast/lorde-sober/id788236947?i=1000709281998&uo=4",
+			"artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b8/22/9f/b8229f5f-d33a-af67-bdfc-8354b03fcfd9/mza_1473579282870953806.png/60x60bb.png",
+			"episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/65db3edd-38c5-42b9-bf21-47d3bf0e38b1/SongExploder118-Lorde-Reissue.mp3",
+			"artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b8/22/9f/b8229f5f-d33a-af67-bdfc-8354b03fcfd9/mza_1473579282870953806.png/600x600bb.jpg",
+			"genres": [
+				{
+					"name": "Music",
+					"id": "1310"
+				}
+			]
+		},
+		{
+			"artistIds": [
+				850139119
+			],
+			"episodeFileExtension": "mp3",
+			"episodeContentType": "audio",
+			"episodeGuid": "prx_93_44824659-db54-44d3-b9e1-691e2bc67018",
+			"trackName": "Tears for Fears - Everybody Wants to Rule the World",
+			"trackId": 1000706681374,
+			"shortDescription": "",
+			"releaseDate": "2025-05-07T15:00:00Z",
+			"feedUrl": "https://feed.songexploder.net/SongExploder",
+			"closedCaptioning": "none",
+			"collectionId": 788236947,
+			"collectionName": "Song Exploder",
+			"artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/11/82/aa/1182aaa4-b529-650f-03c5-0db329d80696/mza_3127853039243576909.jpg/160x160bb.jpg",
+			"kind": "podcast-episode",
+			"wrapperType": "podcastEpisode",
+			"description": "Tears for Fears is a duo formed in 1981 in Bath, England by Roland Orzabal and Curt Smith. They’ve sold over 30 million albums, starting with their first, The Hurting, which went to number one in the UK. But it was their second album, Songs from the Big Chair, that made them international stars. It came out in 1985, and had huge singles like “Shout” and \"Head Over Heels.” But their biggest hit is “Everybody Wants to Rule the World.” It won Best Single at the BRIT Awards in 1986, and it’s been streamed over 2 billion times. So I talked to the two of them about how they, along with their producer Chris Hughes and keyboard player Ian Stanley, made a song that would help define the sound of the 80s.\nThanks to Sonos for their support of the podcast. Check out sonos.com.\nFor more, visit songexploder.net/tears-for-fears.",
+			"country": "USA",
+			"previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/44824659-db54-44d3-b9e1-691e2bc67018/SongExploder292-TearsForFears.mp3",
+			"trackTimeMillis": 1699000,
+			"contentAdvisoryRating": "Explicit",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
+			"collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
+			"trackViewUrl": "https://podcasts.apple.com/us/podcast/tears-for-fears-everybody-wants-to-rule-the-world/id788236947?i=1000706681374&uo=4",
+			"artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/11/82/aa/1182aaa4-b529-650f-03c5-0db329d80696/mza_3127853039243576909.jpg/60x60bb.jpg",
+			"episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/44824659-db54-44d3-b9e1-691e2bc67018/SongExploder292-TearsForFears.mp3",
+			"artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/11/82/aa/1182aaa4-b529-650f-03c5-0db329d80696/mza_3127853039243576909.jpg/600x600bb.jpg",
+			"genres": [
+				{
+					"name": "Music",
+					"id": "1310"
+				}
+			]
+		},
+		{
+			"artistIds": [
+				850139119
+			],
+			"episodeFileExtension": "mp3",
+			"episodeContentType": "audio",
+			"episodeGuid": "prx_93_5cdf84fc-9335-47b2-8012-ba901225cd4e",
+			"trackName": "Lizzo - Still Bad",
+			"trackId": 1000704641762,
+			"shortDescription": "Lizzo is a Grammy- and Emmy-winning singer, rapper, songwriter, and actress. She’s been putting out music since 2013, and her last two albums both went platinum. Her fifth album, Love In Real Life, comes out this summer. For this episode, I talked to",
+			"releaseDate": "2025-04-23T19:00:00Z",
+			"feedUrl": "https://feed.songexploder.net/SongExploder",
+			"closedCaptioning": "none",
+			"collectionId": 788236947,
+			"collectionName": "Song Exploder",
+			"artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/84/8b/ab/848bab73-973b-f01a-b40c-92329b096b2b/mza_17853989911033120983.jpg/160x160bb.jpg",
+			"kind": "podcast-episode",
+			"wrapperType": "podcastEpisode",
+			"description": "Lizzo is a Grammy- and Emmy-winning singer, rapper, songwriter, and actress. She’s been putting out music since 2013, and her last two albums both went platinum. Her fifth album, Love In Real Life, comes out this summer. For this episode, I talked to Lizzo, as well as her longtime collaborator, Grammy-winning producer Ricky Reed, about the making of one of her new songs, “Still Bad.” It wasn’t a straightforward process at all, and coming up, you’ll hear a few of the many, many demos they made on their way to the final song. \nFor more, visit songexploder.net/Lizzo.",
+			"country": "USA",
+			"previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/5cdf84fc-9335-47b2-8012-ba901225cd4e/SongExploder291-Lizzo.mp3",
+			"trackTimeMillis": 1737000,
+			"contentAdvisoryRating": "Explicit",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
+			"collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
+			"trackViewUrl": "https://podcasts.apple.com/us/podcast/lizzo-still-bad/id788236947?i=1000704641762&uo=4",
+			"artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/84/8b/ab/848bab73-973b-f01a-b40c-92329b096b2b/mza_17853989911033120983.jpg/60x60bb.jpg",
+			"episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/5cdf84fc-9335-47b2-8012-ba901225cd4e/SongExploder291-Lizzo.mp3",
+			"artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/84/8b/ab/848bab73-973b-f01a-b40c-92329b096b2b/mza_17853989911033120983.jpg/600x600bb.jpg",
+			"genres": [
+				{
+					"name": "Music",
+					"id": "1310"
+				}
+			]
+		},
+		{
+			"artistIds": [
+				850139119
+			],
+			"episodeFileExtension": "mp3",
+			"episodeContentType": "audio",
+			"episodeGuid": "prx_93_5ed556e0-07b3-4401-b9ca-2f3b3eccc7d8",
+			"trackName": "Key Change: Samin Nosrat on Ani DiFranco",
+			"trackId": 1000703752513,
+			"shortDescription": "My guest today is my friend Samin Nosrat, the author of the bestselling, award-winning cookbook Salt Fat Acid Heat, and the host and executive producer of the hit Netflix show that's based on it. Her second cookbook comes out this fall, and it's called",
+			"releaseDate": "2025-04-16T15:35:00Z",
+			"feedUrl": "https://feed.songexploder.net/SongExploder",
+			"closedCaptioning": "none",
+			"collectionId": 788236947,
+			"collectionName": "Song Exploder",
+			"artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/01/48/98/01489818-3dcf-5bf7-7046-312ebdb8adad/mza_2696153456802088505.jpg/160x160bb.jpg",
+			"kind": "podcast-episode",
+			"wrapperType": "podcastEpisode",
+			"description": "My guest today is my friend Samin Nosrat, the author of the bestselling, award-winning cookbook Salt Fat Acid Heat, and the host and executive producer of the hit Netflix show that's based on it. Her second cookbook comes out this fall, and it's called Good Things: Recipes and Rituals to Share With People You Love. \nBack in March 2020, Samin and I started a podcast together called Home Cooking, where we answered people's anxious questions about cooking in the time of the pandemic and lockdown. And we're bringing that podcast back later this year. \nSamin is one of my closest friends. We've been there for each other for all of the most important moments of our lives over the years that we've known each other. But with a total lack of consideration to our friendship, it turns out Samin’s had important moments in her life from before we met. But we're going to make up for lost time, and she's going to talk to me about one of them today.\nFor more, visit songexploder.net/keychange.\nYou can listen to \"Untouchable Face\" by Ani DiFranco here. ",
+			"country": "USA",
+			"previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/5ed556e0-07b3-4401-b9ca-2f3b3eccc7d8/KeyChange4-SaminNosrat.mp3",
+			"trackTimeMillis": 1602000,
+			"contentAdvisoryRating": "Explicit",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
+			"collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
+			"trackViewUrl": "https://podcasts.apple.com/us/podcast/key-change-samin-nosrat-on-ani-difranco/id788236947?i=1000703752513&uo=4",
+			"artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/01/48/98/01489818-3dcf-5bf7-7046-312ebdb8adad/mza_2696153456802088505.jpg/60x60bb.jpg",
+			"episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/5ed556e0-07b3-4401-b9ca-2f3b3eccc7d8/KeyChange4-SaminNosrat.mp3",
+			"artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/01/48/98/01489818-3dcf-5bf7-7046-312ebdb8adad/mza_2696153456802088505.jpg/600x600bb.jpg",
+			"genres": [
+				{
+					"name": "Music",
+					"id": "1310"
+				}
+			]
+		},
+		{
+			"artistIds": [
+				850139119
+			],
+			"episodeFileExtension": "mp3",
+			"episodeContentType": "audio",
+			"episodeGuid": "prx_93_658921b7-82af-4852-ad01-0c95741ba0c8",
+			"trackName": "MJ Lenderman - You Don't Know The Shape I'm In",
+			"trackId": 1000701917661,
+			"shortDescription": "Jake Lenderman plays and records under the name MJ Lenderman. He put out his first album in 2019. In addition to his solo work, he’s been a member of the band Wednesday, and he’s also featured on the Waxahatchee hit song “Right Back to It.\" In Sep",
+			"releaseDate": "2025-04-02T15:30:00Z",
+			"feedUrl": "https://feed.songexploder.net/SongExploder",
+			"closedCaptioning": "none",
+			"collectionId": 788236947,
+			"collectionName": "Song Exploder",
+			"artworkUrl160": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/d4/8c/a6d48c63-550b-96b3-0e76-44596cf77def/mza_14652750770811312532.jpg/160x160bb.jpg",
+			"kind": "podcast-episode",
+			"wrapperType": "podcastEpisode",
+			"description": "Jake Lenderman plays and records under the name MJ Lenderman. He put out his first album in 2019. In addition to his solo work, he’s been a member of the band Wednesday, and he’s also featured on the Waxahatchee hit song “Right Back to It.\" In September 2024, the fourth MJ Lenderman album came out. It’s called Manning Fireworks. The New Yorker named it the best album of the year, and Stereogum, Rolling Stone and Pitchfork all put it in their top ten. For this episode, I talked to Jake about one of the songs from that album, called “You Don’t Know the Shape I’m In.” The song itself took shape in a few different ways. Coming up, you’ll hear the way the song started as a demo, and then how that got fleshed out, and then how it got rebuilt, and then how Jake completely reimagined the whole thing.\nFor more info, visit songexploder.net/mj-lenderman.",
+			"country": "USA",
+			"previewUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/658921b7-82af-4852-ad01-0c95741ba0c8/SongExploder290-MJLenderman.mp3",
+			"trackTimeMillis": 1654000,
+			"contentAdvisoryRating": "Clean",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/hrishikesh-hirway/850139119?mt=2&uo=4",
+			"collectionViewUrl": "https://itunes.apple.com/us/podcast/song-exploder/id788236947?mt=2&uo=4",
+			"trackViewUrl": "https://podcasts.apple.com/us/podcast/mj-lenderman-you-dont-know-the-shape-im-in/id788236947?i=1000701917661&uo=4",
+			"artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/d4/8c/a6d48c63-550b-96b3-0e76-44596cf77def/mza_14652750770811312532.jpg/60x60bb.jpg",
+			"episodeUrl": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/658921b7-82af-4852-ad01-0c95741ba0c8/SongExploder290-MJLenderman.mp3",
+			"artworkUrl600": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a6/d4/8c/a6d48c63-550b-96b3-0e76-44596cf77def/mza_14652750770811312532.jpg/600x600bb.jpg",
+			"genres": [
+				{
+					"name": "Music",
+					"id": "1310"
+				}
+			]
+		}
+	]
 }
-
-
