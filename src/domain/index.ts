@@ -1,4 +1,5 @@
 export * from './criteria';
+export type { EpisodePrimitives } from './episode';
 export { default as Episode } from './episode';
 export { default as EpisodeDescription } from './episode-description';
 export { default as EpisodeDuration } from './episode-duration';
