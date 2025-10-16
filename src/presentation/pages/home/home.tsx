@@ -36,7 +36,7 @@ const Home: FC = () => {
 				{podcasts.map(podcast => (
 					<Link
 						key={podcast.id}
-						to={`/podcast/${podcast.id.toFixed(0)}`}>
+						to={`/podcast/${podcast.id.toFixed(0)}/`}>
 						<PodcastCard podcast={podcast} />
 					</Link>
 				))}

@@ -9,7 +9,6 @@ import { Route, Switch } from 'wouter';
 
 const Home = lazy(() => import('@presentation/pages/home'));
 const Podcast = lazy(() => import('@presentation/pages/podcast'));
-const Episode = lazy(() => import('@presentation/pages/episode'));
 
 const Podcaster: FC = () => {
 	return (
@@ -19,20 +18,10 @@ const Podcaster: FC = () => {
 					<NavigationBar />
 					<Main>
 						<Switch>
-							<Route path='/podcast/:podcast'>
+							<Route path='/podcast/:podcast/*'>
 								{({ podcast }) => (
 									<Suspense>
 										<Podcast podcast={podcast} />
-									</Suspense>
-								)}
-							</Route>
-							<Route path='/podcast/:podcast/episode/:episode'>
-								{({ episode, podcast }) => (
-									<Suspense>
-										<Episode
-											episode={episode}
-											podcast={podcast}
-										/>
 									</Suspense>
 								)}
 							</Route>

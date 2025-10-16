@@ -1,6 +1,7 @@
 .layout {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    gap: 1rem;
 }
 
 .spinner {
@@ -13,4 +14,8 @@
 
 .card {
     max-width: 300px;
+}
+
+.episodes {
+    flex: 1;
 }
