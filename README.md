@@ -161,6 +161,7 @@ casos, suelo configurar herramientas como Renovate o Dependabot para gestionar l
 de manera controlada y segura.
 
 **¿Por qué no se utiliza Redux u otra librería de gestión de estado?**
+
 En este proyecto, he optado por utilizar el Context API de React junto con hooks personalizados para gestionar el estado,
 ya que la aplicación es relativamente sencilla y no requiere la complejidad adicional que conlleva el uso de librerías
 como Redux.
