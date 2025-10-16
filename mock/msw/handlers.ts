@@ -1,5 +1,6 @@
 import { http, HttpResponse } from 'msw';
 
+import episodes from './episodes.json';
 import podcast from './podcast.json';
 
 export const handlers = [
@@ -12,6 +13,15 @@ export const handlers = [
 			return HttpResponse.json(
 				{
 					contents: JSON.stringify(podcast),
+				},
+				{ status: 200 }
+			);
+		}
+
+		if (url?.startsWith('https://itunes.apple.com/lookup?id=')) {
+			return HttpResponse.json(
+				{
+					contents: JSON.stringify(episodes),
 				},
 				{ status: 200 }
 			);

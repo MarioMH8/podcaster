@@ -1,4 +1,4 @@
-import { Podcast } from '@domain';
+import { Episode, Podcast } from '@domain';
 
 const PODCAST_1 = new Podcast({
 	author: 'Author 1',
@@ -32,4 +32,40 @@ const PODCAST_4 = new Podcast({
 	name: 'Podcast 4',
 });
 
-export { PODCAST_1, PODCAST_2, PODCAST_3, PODCAST_4 };
+const EPISODE_1 = new Episode({
+	description: 'Description 1',
+	duration: 123_213,
+	id: 1,
+	publication: new Date('2023-01-01T00:00:00Z'),
+	title: 'Podcast 1',
+	url: 'https://example.com/episode1.mp3',
+});
+
+const EPISODE_2 = new Episode({
+	description: 'Description 2',
+	duration: 3213,
+	id: 2,
+	publication: new Date('2023-01-01T00:00:00Z'),
+	title: 'Podcast 2',
+	url: 'https://example.com/episode2.mp3',
+});
+
+const EPISODE_3 = new Episode({
+	description: 'Description 3',
+	duration: 3213,
+	id: 3,
+	publication: new Date('2023-01-01T00:00:00Z'),
+	title: 'Podcast 3',
+	url: 'https://example.com/episode3.mp3',
+});
+
+const EPISODE_4 = new Episode({
+	description: 'Description 4',
+	duration: 3213,
+	id: 4,
+	publication: new Date('2023-01-01T00:00:00Z'),
+	title: 'Podcast 4',
+	url: 'https://example.com/episode4.mp3',
+});
+
+export { EPISODE_1, EPISODE_2, EPISODE_3, EPISODE_4, PODCAST_1, PODCAST_2, PODCAST_3, PODCAST_4 };
