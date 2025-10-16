@@ -7,6 +7,14 @@ describe('SearchPodcastLimitCriteria', () => {
 		expect(id.value).toBe(12);
 	});
 
+	it('throws an error when the value is less than 0', () => {
+		expect(() => new SearchPodcastLimitCriteria(-1)).toThrow('Limit must be greater than zero');
+	});
+
+	it('throws an error when the value is greater than 100', () => {
+		expect(() => new SearchPodcastLimitCriteria(101)).toThrow('Limit must be less than or equal to 100');
+	});
+
 	it('throws an error when the value is null', () => {
 		// eslint-disable-next-line unicorn/no-null
 		expect(() => new SearchPodcastLimitCriteria(null as unknown as number)).toThrow('Limit cannot be empty');
