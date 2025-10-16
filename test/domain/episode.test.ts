@@ -15,9 +15,9 @@ describe('Episode', () => {
 		const episode = new Episode(primitives);
 
 		expect(episode.description.value).toBe(primitives.description);
-		expect(episode.duration.value).toBe(primitives.duration);
+		expect(episode.duration?.value).toBe(primitives.duration);
 		expect(episode.id.value).toBe(primitives.id);
-		expect(episode.publication.value).toBe(primitives.publication);
+		expect(episode.publication.value).toStrictEqual(primitives.publication);
 		expect(episode.title.value).toBe(primitives.title);
 		expect(episode.url.value).toBe(primitives.url);
 	});
