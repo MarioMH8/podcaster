@@ -1,3 +1,10 @@
+.spinner {
+    width: 100%;
+    max-width: 4rem;
+    margin: 20px auto;
+    display: block;
+}
+
 .layout {
     display: flex;
     flex-direction: column;
