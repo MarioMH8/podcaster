@@ -7,7 +7,7 @@ const EpisodeSchema = z.object({
 	releaseDate: z.coerce.date(),
 	trackId: z.coerce.number(),
 	trackName: z.string(),
-	trackTimeMillis: z.coerce.number(),
+	trackTimeMillis: z.coerce.number().nullish(),
 	wrapperType: z.string(),
 });
 
