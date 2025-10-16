@@ -1,8 +1,8 @@
 import { NestedRoutes, Spinner } from '@presentation/components';
-import { usePodcast } from '@presentation/context';
-import { PodcastDetail } from '@presentation/features';
+import { usePodcast, usePodcasterContext } from '@presentation/context';
+import { ErrorMessage, PodcastDetail } from '@presentation/features';
 import type { FC } from 'react';
-import { lazy, Suspense } from 'react';
+import { lazy, Suspense, useEffect } from 'react';
 import { Route, Switch } from 'wouter';
 
 import css from './podcast.module.css';
@@ -15,12 +15,27 @@ interface PodcastProps {
 }
 
 const Podcast: FC<PodcastProps> = ({ podcast: podcastId }) => {
-	const { isLoading, podcast } = usePodcast(podcastId);
+	const { setLoading } = usePodcasterContext();
+	const { isError, isLoading, podcast } = usePodcast(podcastId);
+
+	useEffect(() => {
+		setLoading(isLoading);
+	}, [isLoading, setLoading]);
+
+	if (isLoading) {
+		return <Spinner className={css.spinner} />;
+	}
+
+	if (isError || !podcast) {
+		return (
+			<ErrorMessage>Hubo un error al cargar el podcasts. Por favor, intenta nuevamente más tarde.</ErrorMessage>
+		);
+	}
 
 	return (
 		<div className={css.layout}>
 			<div className={css.card}>
-				{isLoading || !podcast ? <Spinner className={css.spinner} /> : <PodcastDetail podcast={podcast} />}
+				<PodcastDetail podcast={podcast} />
 			</div>
 			<div className={css.episodes}>
 				<NestedRoutes base={`/podcast/${podcastId}`}>
