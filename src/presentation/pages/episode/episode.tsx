@@ -1,5 +1,9 @@
-import { Card } from '@presentation/components';
+import { Card, Spinner } from '@presentation/components';
+import { useEpisode, usePodcasterContext } from '@presentation/context';
+import { ErrorMessage } from '@presentation/features';
+import { descriptionParser } from '@presentation/utils';
 import type { FC } from 'react';
+import { useEffect } from 'react';
 
 import css from './episode.module.css';
 
@@ -8,16 +12,46 @@ interface EpisodeProps {
 	podcast: string;
 }
 
-const Episode: FC<EpisodeProps> = () => {
+const Episode: FC<EpisodeProps> = ({ episode: episodeId, podcast }) => {
+	const { setLoading } = usePodcasterContext();
+	const { episode, isError, isLoading } = useEpisode(podcast, episodeId);
+
+	useEffect(() => {
+		setLoading(isLoading);
+	}, [isLoading, setLoading]);
+
+	if (isLoading) {
+		return <Spinner className={css.spinner} />;
+	}
+
+	if (isError || !episode) {
+		return (
+			<ErrorMessage>
+				Hubo un error al cargar la lista de episodios. Por favor, intenta nuevamente más tarde.
+			</ErrorMessage>
+		);
+	}
+
+	const description = descriptionParser(episodeId, episode.description);
+
 	return (
 		<Card>
-			<h2>Episode title</h2>
-			<p className={css.description}>
-				Officia incididunt enim ad enim eu. Sit officia nulla commodo officia consectetur veniam est occaecat
-				exercitation ipsum ex. Officia labore nisi incididunt sunt. Irure laborum eiusmod anim elit et ullamco
-				duis veniam nostrud adipisicing consectetur esse labore velit est. Eu incididunt cupidatat nulla
-				deserunt velit.
-			</p>
+			<h2>{episode.title}</h2>
+			<div className={css.description}>{description}</div>
+			<audio
+				className={css.audio}
+				controls
+				data-testid='audio-element'>
+				<source
+					src={episode.url}
+					type='audio/mpeg'
+				/>
+				<track
+					kind='captions'
+					label='No captions available'
+				/>
+				Your browser does not support the audio element.
+			</audio>
 		</Card>
 	);
 };

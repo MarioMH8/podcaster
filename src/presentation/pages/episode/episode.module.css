@@ -1,4 +1,15 @@
+.spinner {
+    width: 100%;
+    max-width: 4rem;
+    margin: 20px auto;
+    display: block;
+}
+
 .description {
     font-size: 0.8rem;
     font-weight: 300;
+}
+
+.audio {
+    width: 100%;
 }
