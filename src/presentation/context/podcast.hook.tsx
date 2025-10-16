@@ -3,8 +3,6 @@ import type { PodcastPrimitives } from '@domain';
 import { useInjection } from 'inversify-react';
 import { useEffect, useMemo, useState } from 'react';
 
-import { usePodcasterContext } from './podcaster.context';
-
 interface TopPodcastState {
 	isError: boolean;
 	isLoading: boolean;
@@ -12,7 +10,7 @@ interface TopPodcastState {
 }
 
 export default function usePodcast(podcastId: string): TopPodcastState {
-	const { isLoading, setLoading } = usePodcasterContext();
+	const [isLoading, setLoading] = useState<boolean>(false);
 	const [isError, setIsError] = useState<boolean>(false);
 	const [podcast, setPodcast] = useState<PodcastPrimitives | undefined>();
 	const useCase = useInjection(PodcastSearcher);
@@ -26,7 +24,8 @@ export default function usePodcast(podcastId: string): TopPodcastState {
 				const podcasts = await useCase.run(query);
 				const podcast = podcasts.find(p => p.id.value === Number(podcastId));
 				setPodcast(podcast?.toPrimitives());
-			} catch {
+			} catch (error) {
+				console.error(error);
 				setIsError(true);
 			} finally {
 				setLoading(false);
