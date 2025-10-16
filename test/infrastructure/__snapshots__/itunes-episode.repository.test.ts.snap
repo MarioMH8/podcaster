@@ -1,0 +1,199 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ItunesEpisodeRepository > should fetch all episode successfully 1`] = `
+[
+  {
+    "description": ""Take On Me" by A-ha is an iconic hit of the 1980s. It came out in October 1985 with an equally iconic music video that helped define the age of MTV. It hit #1 in the US and in countries all over the world. And it's still massively popular today. It currently has over two and a half billion streams on Spotify. So, with all of that, it's easy to imagine that this was all inevitable. But actually, the song took so many steps and missteps before it became the hit that everybody knows. I talked to Paul Waaktaar-Savoy from A-ha, who wrote the original bones of the song back when he was a teenager in Norway, years before it came out. The song actually came out and flopped TWICE in the UK, before it found a foothold in the US. So for this episode, Paul took me through the whole history of the song, and all the different versions that existed. And he told me how he and his bandmates, Magne Furuholmen and Morten Harket, pushed and pushed and persevered. "Take On Me" was their first single as a band, and it made them the most successful Norwegian pop group of all time.
+For more info, visit songexploder.net/a-ha.",
+    "duration": 1914000,
+    "id": 1000731987827,
+    "publication": 2025-10-15T13:30:00.000Z,
+    "title": "A-ha - Take On Me",
+    "url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/81fa749e-9f25-4249-b45b-80ca9fec5ae7/SongExploder301-A-ha-Part1.mp3",
+  },
+  {
+    "description": "Lady Gaga is a singer, songwriter, producer, and actress from New York. She’s one of the biggest artists in the world. She’s also won 14 Grammys, 2 Golden Globes, and an Oscar. And in March 2025, she released her sixth album, Mayhem. For this episode, I talked to her about a song from that album called “Abracadabra.” She co-wrote it and co-produced it with Andrew Watt and Cirkut, and they recorded it in Rick Rubin’s studio, Shangri-La. That’s also where we recorded the interview for this episode.
+For more info, visit songexploder.net/lady-gaga.",
+    "duration": 1620000,
+    "id": 1000729514706,
+    "publication": 2025-10-01T12:30:00.000Z,
+    "title": "Lady Gaga - Abracadabra",
+    "url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/43251972-8711-4897-9cf3-a289b42d51ba/SongExploder300-LadyGaga-Part1.mp3",
+  },
+  {
+    "description": "My guest today is Chef David Chang. He founded Momofuku Noodle Bar in 2004. That was just the start of his incredible career – he’s opened several restaurants, winning awards and Michelin stars along the way, and becoming a fixture in the upper echelon of food. He’s the host of the Netflix shows Ugly Delicious and Dinner Time Live, as well as his own podcast, The Dave Chang Show. For this episode, I talked to Dave about the song “I See a Darkness.” It's the title track on the album by Bonnie “Prince” Billy, aka Will Oldham, which came out in 1999. Later, Johnny Cash would cover “I See a Darkness” in 2000, as a duet with Will Oldham, as part of Johnny Cash’s acclaimed American series.
+You can get Bonnie "Prince" Billy’s "I See a Darkness" on vinyl or digital here.
+For more info, visit songexploder.net/david-chang.",
+    "duration": 1262000,
+    "id": 1000728260720,
+    "publication": 2025-09-24T17:00:50.000Z,
+    "title": "Key Change: David Chang on "I See a Darkness"",
+    "url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/7948e34d-2ada-4633-9a6f-89a08507b7e8/KeyChange8-DavidChang-Part1.mp3",
+  },
+  {
+    "description": "Hayden Anhedönia has been making music under the name Ethel Cain since 2019. But it’s not just a band name or a moniker; Ethel Cain is a fictional character, a sort of alter ego that Hayden’s been creating and world building around throughout her albums. The first Ethel Cain album, Preacher’s Daughter, came out in 2022. It ended up blowing up, and it made Hayden the first openly trans artist with an album in the top ten on the Billboard chart. In 2025, she put out the second Ethel Cain album, called Willoughby Tucker, I’ll Always Love You. For this episode, I talked to Hayden about how she made the song “Nettles.” As you’re about to hear, it took on a lot of different forms, over several years, before she got to the final version. 
+For more info, visit songexploder.net/ethel-cain.",
+    "duration": 1877000,
+    "id": 1000727212828,
+    "publication": 2025-09-17T15:00:00.000Z,
+    "title": "Ethel Cain - Nettles",
+    "url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/ea7e7ccd-1d42-410a-b6a2-ebb3938e4b46/SongExploder299-EthelCain-Part1.mp3",
+  },
+  {
+    "description": "Sam Fender is a singer and songwriter from the town of North Shields in England. He won the Brit Award for Best Rock/Alternative Act twice. His most recent album is called People Watching, and just like his first two albums, it went to #1 on the UK album charts. To help produce the album, Sam enlisted Adam Granduciel, the singer and frontman of the band The War on Drugs. For this episode, I talked to Sam, and his bandmate Joe Atkinson, about the title track from People Watching, and the long journey that it took to get made, from Sam’s kitchen, to the Hollywood Hills, to Abbey Road.",
+    "duration": 1956000,
+    "id": 1000724791101,
+    "publication": 2025-09-03T15:37:42.000Z,
+    "title": "Sam Fender - People Watching",
+    "url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/e6c4d6cd-0dfb-4c3f-bca3-777bd2d0b058/SongExploder298-SamFender-Part1.mp3",
+  },
+  {
+    "description": "My guest today is Jia Tolentino. Jia is the author of the essay collection Trick Mirror, which was named one of the best books of 2019 by The New York Times Book Review, NPR, The Paris Review, and more. She won a National Magazine Award for her work at the New Yorker, where she’s been a staff writer since 2016. Her writing covers so many different topics, from Roe V. Wade to the internet to pop culture and music. And today, we’re going to talk about the 1996 pop hit “I Love You Always Forever” by Donna Lewis. 
+For more, visit songexploder.net/jia-tolentino.",
+    "duration": 1036000,
+    "id": 1000723787228,
+    "publication": 2025-08-27T19:00:00.000Z,
+    "title": "Key Change: Jia Tolentino on "I Love You Always Forever"",
+    "url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/32b2b0b8-106f-4e6f-b2f0-dfa1f7fa6024/KeyChange7-Jia_Tolentino-Part1.mp3",
+  },
+  {
+    "description": "Melina Duterte goes by the name Jay Som. She’s a singer, songwriter, and multi-instrumentalist. She’s released three albums as Jay Som, and has produced, engineered, and mixed each one.
+Her third album, Anak Ko, came out in August 2019. And in this episode, Melina breaks down a song from it called “Tenderness.”
+To learn more, visit songexploder.net/jay-som.",
+    "duration": 1107000,
+    "id": 1000722833953,
+    "publication": 2025-08-20T17:11:28.000Z,
+    "title": "Jay Som - Tenderness",
+    "url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/907ad5ed-946c-4f3c-b6dd-d545dfc4a9c3/SongExploder172-JaySom-Reissue-Part1.mp3",
+  },
+  {
+    "description": "Fall Out Boy is a band from Chicago that formed in 2001. Their first album, Take This To Your Grave, was a hit, especially in the punk rock world. When they put out their second album, though, in 2005, that was on a whole other scale. That album is called From Under the Cork Tree, and it went double platinum, and they were nominated for a Grammy for Best New Artist. For this episode, I talked to the band’s singer, Patrick Stump, about how they made their breakout hit from that album, the song “Sugar, We’re Goin Down.” 
+For more info, visit songexploder.net/fall-out-boy.",
+    "duration": 1882000,
+    "id": 1000720901339,
+    "publication": 2025-08-06T14:00:00.000Z,
+    "title": "Fall Out Boy - Sugar, We're Goin Down",
+    "url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/107a3647-e6f9-4095-945e-10ccc812c500/SongExploder297-FallOutBoy-Part1.mp3",
+  },
+  {
+    "description": "Gigi Perez is a singer and songwriter from Florida, and at 25 years old, she’s already had so many ups and downs in her music career. She started sharing her songs on TikTok, where they got enough attention that she got signed to a major label deal, but that ultimately didn’t pan out. Soon after that, as an independent artist again, she had her biggest breakout hit, with “Sailor Song.” She released it in July 2024, and it went viral on TikTok. Now, it has over a billion streams on Spotify alone, and it’s a part of her new album, which came out in April 2025. In this episode, you’ll hear how the song evolved, from her first voice memo to the final version, which she recorded in her childhood bedroom. I talked to Gigi about how “Sailor Song” came about, and about all the different parts of herself that she put into it—her faith, grief, desire, and more. 
+For more info, visit songexploder.net/gigi-perez.",
+    "duration": 1495000,
+    "id": 1000718690084,
+    "publication": 2025-07-23T15:00:00.000Z,
+    "title": "Gigi Perez - Sailor Song",
+    "url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/d154be98-5910-43b3-b439-23f7f34c7f60/SongExploder296-GigiPerez-Part1.mp3",
+  },
+  {
+    "description": "Jason Schwartzman, actor, songwriter, and musician, talks  about how the soundtrack to 'Rushmore'—his first film—changed his life. I met Jason briefly in 2017, as he was leaving the room where I was supposed to interview the band Phoenix. I was shocked when he stopped on his way out to tell me he loved Song Exploder. Eight years later, I reached out to him to see if he’d want to be a guest on Key Change, and we ended up talking for almost two hours, just on the phone. By the time he came over to record, I felt like I’d met a kindred spirit who’d also been cataloguing his whole life through the songs he’d encountered along the way. The fact that we got to talk about one of my favorite movies, 'Rushmore,' made the experience even more meaningful and thrilling for me.
+For more, visit songexploder.net/jason-schwartzman.",
+    "duration": 1351000,
+    "id": 1000717540102,
+    "publication": 2025-07-16T15:50:24.000Z,
+    "title": "Key Change: Jason Schwartzman on the ‘Rushmore’ soundtrack",
+    "url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/6c54bef1-ddcb-4dca-9f50-fae9a8bfb429/KeyChange6-JasonSchwartzman-Part1.mp3",
+  },
+  {
+    "description": "Goo Goo Dolls formed in 1986 in Buffalo, New York, and by the time 1998 rolled around, they’d already had a pretty successful career. They’d released five albums, and one of their songs, “Name,” from 1995, had become a Top 10 hit. But things really changed for them when they made the song “Iris.” It originally came out on the soundtrack for the movie City of Angels, which came out in 1998 and starred Nicolas Cage and Meg Ryan. “Iris” spent a record-breaking 18 weeks at number one on the radio, and became one of the best selling songs of all time, with over 14 million copies sold, and over 4.5 billion streams. So for this episode, John Rzeznik of Goo Goo Dolls came over to my place, and he told me about how he wrote the song. He told me how the Grammy-winning producer Rob Cavallo helped them expand their vision, and how the version of the song in the movie isn’t actually the version that everybody knows.
+For more info, visit songexploder.net/goo-goo-dolls.",
+    "duration": 1614000,
+    "id": 1000716504742,
+    "publication": 2025-07-09T15:30:02.000Z,
+    "title": "Goo Goo Dolls - Iris",
+    "url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/deb0722f-e700-4c52-b332-a5707444398e/SongExploder295-GooGooDolls-Part1.mp3",
+  },
+  {
+    "description": "Little Simz is a rapper from England who put out her first album in 2015. She’s won the Mercury Prize, a Brit Award, and three MOBO awards. She also starred in the Netflix series Top Boy. Her most recent album is called Lotus. It came out in June 2025, and it followed a pretty tumultuous time in her career. For this episode, I got to talk to Little Simz about one of the songs from that album, called "Free," along with Miles Clinton James, who produced the track. 
+Thanks to Sonos for their support of the podcast. Check out sonos.com.
+For more, visit songexploder.net/little-simz.",
+    "duration": 1605000,
+    "id": 1000714515997,
+    "publication": 2025-06-25T14:30:00.000Z,
+    "title": "Little Simz - Free",
+    "url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/acf2666a-044a-4539-b891-fd94ff66e270/SongExploder294-LittleSimz-Part1.mp3",
+  },
+  {
+    "description": "My guest today is Shirley Manson. Since 1994, she’s been the lead singer of the band Garbage, and she is a bona fide rock icon. The two of us worked together on a different podcast called The Jump, which Shirley hosted and I helped produce. It was a dream of mine to get Shirley as the host of that podcast, partly because, as you’re about to hear, she has one of the greatest voices, and I could listen to her talk about anything. And so I’m especially excited to listen to her today tell me about a song that changed her life. 
+Thanks to Sonos for their support of the podcast. Check out sonos.com.
+For more, visit songexploder.net/keychange.
+And check out the Song Exploder episode with Garbage from 2014, featuring Shirley and her bandmate Butch Vig talking about how they made their song “Felt.” ",
+    "duration": 1460000,
+    "id": 1000713467818,
+    "publication": 2025-06-18T18:00:49.000Z,
+    "title": "Key Change: Shirley Manson on Siouxsie and the Banshees",
+    "url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/7868ef24-94e9-4c6c-a391-d8b323735ef9/KeyChange5-ShirleyManson-Part1.mp3",
+  },
+  {
+    "description": "Anohni is a singer and songwriter originally from England, who started putting out music in 2000. She’s released 6 albums, and won the Mercury Prize. She’s also been nominated for two Brit Awards, and an Oscar. For this episode, I talked to her about the song "4 Degrees," from her 2016 album Hopelessness. It might be strange to describe a song about climate change as an anthem, but that’s what I think it is, and it feels more urgent with every passing year. It’s also one of my most listened-to songs. It was produced by two of my favorite electronic musicians: Daniel Lopatin, aka Oneohtrix Point Never, and Ross Birchard, aka Hudson Mohawke. I got to speak to Ross about how he started the track on his own, before it became a collaboration between the three of them. This is an episode that I’ve been trying to make happen since 2016. Here it is.
+For more info, visit songexploder.net/anohni.
+Thanks to Sonos for their support of the podcast. Check out sonos.com.",
+    "duration": 1465000,
+    "id": 1000712449671,
+    "publication": 2025-06-11T15:30:00.000Z,
+    "title": "Anohni - 4 Degrees",
+    "url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/0956a253-9420-420c-881d-9344067a1b1a/SongExploder293-Anohni-Part1.mp3",
+  },
+  {
+    "description": "In June 2024, I got to go to the Solid Sound Festival in North Adams, Massachusetts, which is organized by the band Wilco. I performed some of my new songs, and I got to interview Jeff Tweedy, the lead singer of Wilco, on stage as part of the festival. Jeff, in addition to being in Wilco and the band Tweedy, and putting out his solo albums, has also written three books. And this conversation was focused on his second book, which is called How to Write One Song. And even though it’s called How to Write One Song, I think it actually contains a lot of insight about creativity in general, and life in general. I’ve recommended it to friends of mine who aren’t songwriters. And, as you’ll hear, the conversation gets pretty personal for me, because I got so much out of the book personally. It helped me with some of the blocks that I’d been facing in my own songwriting, at a pretty profound level. And when I was listening back to this recording, I’d kind of forgotten about how much I put out there in front of Jeff and the thousands of people who were there watching. But I’m glad the conversation was recorded, partly just so I could revisit it, but also so that I could share it here on Song Exploder. I hope you’ll enjoy it, too.
+You can buy How to Write One Song by Jeff Tweedy here (via Bookshop.org) or here (via Amazon) or on Wilco's website.
+You can listen to the Wilco episode of Song Exploder here. I also interviewed Jeff along with his son Spencer, who is also his bandmate in Tweedy, about their relationship and musical partnership, for an episode of my podcast Partners. You can listen to that here.
+Thanks to Sonos for their support of the podcast. Check out sonos.com.
+For more, visit songexploder.net/jeff-tweedy.",
+    "duration": 2614000,
+    "id": 1000710320250,
+    "publication": 2025-05-28T18:04:56.000Z,
+    "title": "Jeff Tweedy - How to Write One Song",
+    "url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/0f6db382-7044-4e35-ad3f-28e00530e91a/SongExploderSpecial-JeffTweedy.mp3",
+  },
+  {
+    "description": "Lorde is a Grammy Award-winning singer, songwriter, and producer. Her second album, Melodrama, debuted at number one on the charts in June 2017 – five months before her 21st birthday. In this episode, Ella breaks down her song “Sober.” You’ll hear how it started, with the original demos she made with her co-producer Jack Antonoff, and how the song changed over the course of working on it for months and months.
+Thanks to Sonos for their support of the podcast. Check out sonos.com.
+For more, visit songexploder.net/lorde.",
+    "duration": 1175000,
+    "id": 1000709281998,
+    "publication": 2025-05-21T15:00:00.000Z,
+    "title": "Lorde - Sober",
+    "url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/65db3edd-38c5-42b9-bf21-47d3bf0e38b1/SongExploder118-Lorde-Reissue.mp3",
+  },
+  {
+    "description": "Tears for Fears is a duo formed in 1981 in Bath, England by Roland Orzabal and Curt Smith. They’ve sold over 30 million albums, starting with their first, The Hurting, which went to number one in the UK. But it was their second album, Songs from the Big Chair, that made them international stars. It came out in 1985, and had huge singles like “Shout” and "Head Over Heels.” But their biggest hit is “Everybody Wants to Rule the World.” It won Best Single at the BRIT Awards in 1986, and it’s been streamed over 2 billion times. So I talked to the two of them about how they, along with their producer Chris Hughes and keyboard player Ian Stanley, made a song that would help define the sound of the 80s.
+Thanks to Sonos for their support of the podcast. Check out sonos.com.
+For more, visit songexploder.net/tears-for-fears.",
+    "duration": 1699000,
+    "id": 1000706681374,
+    "publication": 2025-05-07T15:00:00.000Z,
+    "title": "Tears for Fears - Everybody Wants to Rule the World",
+    "url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/44824659-db54-44d3-b9e1-691e2bc67018/SongExploder292-TearsForFears.mp3",
+  },
+  {
+    "description": "Lizzo is a Grammy- and Emmy-winning singer, rapper, songwriter, and actress. She’s been putting out music since 2013, and her last two albums both went platinum. Her fifth album, Love In Real Life, comes out this summer. For this episode, I talked to Lizzo, as well as her longtime collaborator, Grammy-winning producer Ricky Reed, about the making of one of her new songs, “Still Bad.” It wasn’t a straightforward process at all, and coming up, you’ll hear a few of the many, many demos they made on their way to the final song. 
+For more, visit songexploder.net/Lizzo.",
+    "duration": 1737000,
+    "id": 1000704641762,
+    "publication": 2025-04-23T19:00:00.000Z,
+    "title": "Lizzo - Still Bad",
+    "url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/5cdf84fc-9335-47b2-8012-ba901225cd4e/SongExploder291-Lizzo.mp3",
+  },
+  {
+    "description": "My guest today is my friend Samin Nosrat, the author of the bestselling, award-winning cookbook Salt Fat Acid Heat, and the host and executive producer of the hit Netflix show that's based on it. Her second cookbook comes out this fall, and it's called Good Things: Recipes and Rituals to Share With People You Love. 
+Back in March 2020, Samin and I started a podcast together called Home Cooking, where we answered people's anxious questions about cooking in the time of the pandemic and lockdown. And we're bringing that podcast back later this year. 
+Samin is one of my closest friends. We've been there for each other for all of the most important moments of our lives over the years that we've known each other. But with a total lack of consideration to our friendship, it turns out Samin’s had important moments in her life from before we met. But we're going to make up for lost time, and she's going to talk to me about one of them today.
+For more, visit songexploder.net/keychange.
+You can listen to "Untouchable Face" by Ani DiFranco here. ",
+    "duration": 1602000,
+    "id": 1000703752513,
+    "publication": 2025-04-16T15:35:00.000Z,
+    "title": "Key Change: Samin Nosrat on Ani DiFranco",
+    "url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/5ed556e0-07b3-4401-b9ca-2f3b3eccc7d8/KeyChange4-SaminNosrat.mp3",
+  },
+  {
+    "description": "Jake Lenderman plays and records under the name MJ Lenderman. He put out his first album in 2019. In addition to his solo work, he’s been a member of the band Wednesday, and he’s also featured on the Waxahatchee hit song “Right Back to It." In September 2024, the fourth MJ Lenderman album came out. It’s called Manning Fireworks. The New Yorker named it the best album of the year, and Stereogum, Rolling Stone and Pitchfork all put it in their top ten. For this episode, I talked to Jake about one of the songs from that album, called “You Don’t Know the Shape I’m In.” The song itself took shape in a few different ways. Coming up, you’ll hear the way the song started as a demo, and then how that got fleshed out, and then how it got rebuilt, and then how Jake completely reimagined the whole thing.
+For more info, visit songexploder.net/mj-lenderman.",
+    "duration": 1654000,
+    "id": 1000701917661,
+    "publication": 2025-04-02T15:30:00.000Z,
+    "title": "MJ Lenderman - You Don't Know The Shape I'm In",
+    "url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/_/93/658921b7-82af-4852-ad01-0c95741ba0c8/SongExploder290-MJLenderman.mp3",
+  },
+]
+`;

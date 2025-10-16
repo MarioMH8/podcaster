@@ -1,5 +1,5 @@
 import { Podcast } from '@domain';
-import { z } from 'zod/mini';
+import { z } from 'zod';
 
 const PodcastSchema = z.object({
 	id: z.object({
