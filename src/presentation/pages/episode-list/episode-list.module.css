@@ -1,0 +1,37 @@
+.layout {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem
+}
+
+.episodeNumber {
+    font-weight: bold;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.875rem;
+}
+
+.row {
+    border-bottom: 1px solid var(--color-border);
+}
+
+.row th, .row td {
+    padding: .5rem;
+}
+
+.title {
+    text-align: left;
+}
+
+.date {
+    text-align: left;
+    width: 15%;
+}
+
+.duration {
+    text-align: center;
+    width: 15%;
+}
