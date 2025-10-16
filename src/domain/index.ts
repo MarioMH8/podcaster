@@ -1,4 +1,11 @@
 export * from './criteria';
+export { default as Episode } from './episode';
+export { default as EpisodeDescription } from './episode-description';
+export { default as EpisodeDuration } from './episode-duration';
+export { default as EpisodeId } from './episode-id';
+export { default as EpisodePublication } from './episode-publication';
+export { default as EpisodeTitle } from './episode-title';
+export { default as EpisodeUrl } from './episode-url';
 export type { PodcastPrimitives } from './podcast';
 export { default as Podcast } from './podcast';
 export { default as PodcastAuthor } from './podcast-author';
