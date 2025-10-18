@@ -1,6 +1,6 @@
 import type { ReactNode } from 'react';
 
-export default function parseDescription(episode: string, description?: string): ReactNode {
+export default function descriptionParser(episode: string, description?: string): ReactNode {
 	if (!description) {
 		return '';
 	}

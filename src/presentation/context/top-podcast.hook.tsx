@@ -11,8 +11,10 @@ interface TopPodcastState {
 	setFilter: (filter: string) => void;
 }
 
+export type { TopPodcastState };
+
 export default function useTopPodcast(): TopPodcastState {
-	const [isLoading, setLoading] = useState<boolean>(false);
+	const [isLoading, setLoading] = useState<boolean>(true);
 	const [filter, setFilter] = useState('');
 	const [isError, setIsError] = useState<boolean>(false);
 	const [podcasts, setData] = useState<PodcastPrimitives[]>([]);

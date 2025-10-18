@@ -16,7 +16,12 @@ const Home: FC = () => {
 	}, [isLoading, setLoading]);
 
 	if (isLoading) {
-		return <Spinner className={css.spinner} />;
+		return (
+			<Spinner
+				className={css.spinner}
+				role='status'
+			/>
+		);
 	}
 
 	if (isError) {
@@ -27,7 +32,9 @@ const Home: FC = () => {
 
 	return (
 		<Fragment>
-			<nav className={css.filter}>
+			<nav
+				className={css.filter}
+				role='menu'>
 				<span className={css.badge}>{podcasts.length}</span>
 				<Input
 					className={css.input}
@@ -40,6 +47,7 @@ const Home: FC = () => {
 			<section className={css.grid}>
 				{podcasts.map(podcast => (
 					<Link
+						data-testid='podcast-link'
 						key={podcast.id}
 						to={`/podcast/${podcast.id.toFixed(0)}/`}>
 						<PodcastCard podcast={podcast} />

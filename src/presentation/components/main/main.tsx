@@ -7,7 +7,7 @@ const Main: FC<ComponentPropsWithRef<'main'>> = ({ children, ...properties }) =>
 		<main
 			{...properties}
 			className={[css.main, properties.className].filter(Boolean).join(' ')}>
-			<div>{children}</div>
+			{children}
 		</main>
 	);
 };

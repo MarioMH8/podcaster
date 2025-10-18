@@ -175,8 +175,8 @@ como Redux.
 
 ### Puntos de mejora
 
-- [ ] Crear test de los componentes y hooks de React utilizando React Testing Library.
-- [ ] Crear test e2e de la aplicación utilizando Cypress.
+- [X] Crear test de los componentes y hooks de React utilizando React Testing Library.
+- [X] Crear test e2e de la aplicación.
 - [ ] Introducir el patrón Mother para la creación de datos de prueba.
 - [ ] Mejorar la gestión de errores creando errores específicos que permitan identificar mejor los problemas de la
   aplicación.

@@ -23,7 +23,12 @@ const Podcast: FC<PodcastProps> = ({ podcast: podcastId }) => {
 	}, [isLoading, setLoading]);
 
 	if (isLoading) {
-		return <Spinner className={css.spinner} />;
+		return (
+			<Spinner
+				className={css.spinner}
+				role='status'
+			/>
+		);
 	}
 
 	if (isError || !podcast) {

@@ -30,12 +30,14 @@ export default class ItunesEpisodeParser {
 			.map(
 				entry =>
 					new Episode({
-						description: entry.description ?? '',
+						// eslint-disable-next-line typescript/no-non-null-assertion
+						description: entry.description!,
 						duration: entry.trackTimeMillis,
 						id: entry.trackId,
 						publication: entry.releaseDate,
 						title: entry.trackName,
-						url: entry.episodeUrl ?? '',
+						// eslint-disable-next-line typescript/no-non-null-assertion
+						url: entry.episodeUrl!,
 					})
 			);
 	}

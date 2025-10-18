@@ -20,7 +20,12 @@ const EpisodeList: FC<EpisodeListProps> = ({ podcast }) => {
 	}, [isLoading, setLoading]);
 
 	if (isLoading) {
-		return <Spinner className={css.spinner} />;
+		return (
+			<Spinner
+				className={css.spinner}
+				role='status'
+			/>
+		);
 	}
 
 	if (isError) {

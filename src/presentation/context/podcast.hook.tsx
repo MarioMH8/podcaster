@@ -3,14 +3,16 @@ import type { PodcastPrimitives } from '@domain';
 import { useInjection } from 'inversify-react';
 import { useEffect, useMemo, useState } from 'react';
 
-interface TopPodcastState {
+interface PodcastState {
 	isError: boolean;
 	isLoading: boolean;
 	podcast?: PodcastPrimitives | undefined;
 }
 
-export default function usePodcast(podcastId: string): TopPodcastState {
-	const [isLoading, setLoading] = useState<boolean>(false);
+export type { PodcastState };
+
+export default function usePodcast(podcastId: string): PodcastState {
+	const [isLoading, setLoading] = useState<boolean>(true);
 	const [isError, setIsError] = useState<boolean>(false);
 	const [podcast, setPodcast] = useState<PodcastPrimitives | undefined>();
 	const useCase = useInjection(PodcastSearcher);

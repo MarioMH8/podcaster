@@ -21,14 +21,17 @@ const Episode: FC<EpisodeProps> = ({ episode: episodeId, podcast }) => {
 	}, [isLoading, setLoading]);
 
 	if (isLoading) {
-		return <Spinner className={css.spinner} />;
+		return (
+			<Spinner
+				className={css.spinner}
+				role='status'
+			/>
+		);
 	}
 
 	if (isError || !episode) {
 		return (
-			<ErrorMessage>
-				Hubo un error al cargar la lista de episodios. Por favor, intenta nuevamente más tarde.
-			</ErrorMessage>
+			<ErrorMessage>Hubo un error al cargar el episodio. Por favor, intenta nuevamente más tarde.</ErrorMessage>
 		);
 	}
 
@@ -41,7 +44,7 @@ const Episode: FC<EpisodeProps> = ({ episode: episodeId, podcast }) => {
 			<audio
 				className={css.audio}
 				controls
-				data-testid='audio-element'>
+				role='audio'>
 				<source
 					src={episode.url}
 					type='audio/mpeg'

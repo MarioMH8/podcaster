@@ -1,7 +1,7 @@
 import { SearchPodcastCriteria } from '@domain';
 import { ItunesPodcastParser, ITunesPodcastRepository } from '@infrastructure';
 import server from '@mock/msw/node';
-import { afterAll, afterEach, beforeAll, beforeEach, describe, expect, it } from 'vitest';
+import { afterAll, beforeAll, beforeEach, describe, expect, it } from 'vitest';
 
 describe('ItunesPodcastRepository', () => {
 	let repository: ITunesPodcastRepository;
@@ -13,9 +13,6 @@ describe('ItunesPodcastRepository', () => {
 		parser = new ItunesPodcastParser();
 		repository = new ITunesPodcastRepository(parser);
 	});
-	afterEach(() => {
-		server.dispose();
-	});
 	afterAll(() => {
 		server.close();
 	});
@@ -26,5 +23,11 @@ describe('ItunesPodcastRepository', () => {
 		const podcast = await repository.search(criteria);
 
 		expect(podcast.map(p => p.toPrimitives())).toMatchSnapshot();
+	});
+
+	it('should throw an error if response is not ok', async () => {
+		const criteria = new SearchPodcastCriteria({ genre: 9999, limit: 100 });
+
+		await expect(repository.search(criteria)).rejects.toThrowError();
 	});
 });

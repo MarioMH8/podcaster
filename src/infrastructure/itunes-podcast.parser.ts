@@ -47,7 +47,7 @@ export default class ItunesPodcastParser {
 					author: entry['im:artist'].label,
 					description: entry.summary.label,
 					id: entry.id.attributes['im:id'],
-					image: entry['im:image'][2].label || entry['im:image'][1].label || entry['im:image'][0].label,
+					image: entry['im:image'][2]?.label || entry['im:image'][1]?.label || entry['im:image'][0].label,
 					name: entry['im:name'].label,
 				})
 		);

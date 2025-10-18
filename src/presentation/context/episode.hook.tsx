@@ -3,14 +3,16 @@ import type { EpisodePrimitives } from '@domain';
 import { useInjection } from 'inversify-react';
 import { useEffect, useMemo, useState } from 'react';
 
-interface TopEpisodeState {
+interface EpisodeState {
 	episode?: EpisodePrimitives | undefined;
 	isError: boolean;
 	isLoading: boolean;
 }
 
-export default function useEpisode(podcastId: string, episodeId: string): TopEpisodeState {
-	const [isLoading, setLoading] = useState<boolean>(false);
+export type { EpisodeState };
+
+export default function useEpisode(podcastId: string, episodeId: string): EpisodeState {
+	const [isLoading, setLoading] = useState<boolean>(true);
 	const [isError, setIsError] = useState<boolean>(false);
 	const [episode, setEpisode] = useState<EpisodePrimitives | undefined>();
 	const useCase = useInjection(EpisodeSearcher);

@@ -9,6 +9,10 @@ export const handlers = [
 		const urlString = new URL(request.url);
 		const url = urlString.searchParams.get('url');
 
+		if (url === `https://itunes.apple.com/us/rss/toppodcasts/limit=100/genre=9999/json`) {
+			return HttpResponse.json({}, { status: 406 });
+		}
+
 		if (url?.startsWith('https://itunes.apple.com/us/rss/toppodcasts')) {
 			return HttpResponse.json(
 				{
@@ -16,6 +20,10 @@ export const handlers = [
 				},
 				{ status: 200 }
 			);
+		}
+
+		if (url === `https://itunes.apple.com/lookup?id=9999&media=podcast&entity=podcastEpisode&limit=20`) {
+			return HttpResponse.json({}, { status: 406 });
 		}
 
 		if (url?.startsWith('https://itunes.apple.com/lookup?id=')) {

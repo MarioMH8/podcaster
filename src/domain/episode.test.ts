@@ -21,6 +21,24 @@ describe('Episode', () => {
 		expect(episode.title.value).toBe(primitives.title);
 		expect(episode.url.value).toBe(primitives.url);
 	});
+	it('creates a Episode instance with valid empty duration', () => {
+		const primitives = {
+			description: 'A episode about technology.',
+			id: 1,
+			publication: new Date('2023-01-01T10:00:00Z'),
+			title: 'Tech Talks',
+			url: 'https://example.com/episode.mp3',
+		};
+
+		const episode = new Episode(primitives);
+
+		expect(episode.description.value).toBe(primitives.description);
+		expect(episode.duration).toBeUndefined();
+		expect(episode.id.value).toBe(primitives.id);
+		expect(episode.publication.value).toStrictEqual(primitives.publication);
+		expect(episode.title.value).toBe(primitives.title);
+		expect(episode.url.value).toBe(primitives.url);
+	});
 
 	it('returns the correct primitives from toPrimitives', () => {
 		const primitives = {
