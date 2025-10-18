@@ -6,6 +6,8 @@ import paths from 'vite-tsconfig-paths';
 export default defineConfig({
 	plugins: [react(), paths()],
 	test: {
-		environment: 'happy-dom',
+		environment: 'jsdom',
+		globals: true,
+		setupFiles: './vite.config.setup.ts',
 	},
 });

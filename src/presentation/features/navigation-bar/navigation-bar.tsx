@@ -14,7 +14,13 @@ const NavigationBar: FC = () => {
 				href='/'>
 				Podcaster
 			</Link>
-			{isLoading && <Spinner className={css.loading} />}
+			{isLoading && (
+				<Spinner
+					aria-valuetext={isLoading.toString()}
+					className={css.loading}
+					role='status'
+				/>
+			)}
 		</Nav>
 	);
 };
