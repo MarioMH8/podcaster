@@ -139,9 +139,11 @@ para mejorar la mantenibilidad y escalabilidad del proyecto. A continuación se 
 El proyecto ha sido desarrollado utilizando las librerías:
 
 - [**React**](https://es.react.dev/): Biblioteca principal para construir la interfaz de usuario.
-- [**Wouter**](https://www.npmjs.com/package/wouter): Alternativa ligera a React Router para el enrutamiento de la aplicación.
+- [**Wouter**](https://www.npmjs.com/package/wouter): Alternativa ligera a React Router para el enrutamiento de la
+  aplicación.
 - [**Zod**](https://zod.dev/): Biblioteca para la validación de esquemas de datos.
-- [**Inversify**](https://inversify.io/): Contenedor de inyección de dependencias para gestionar las dependencias de la aplicación.
+- [**Inversify**](https://inversify.io/): Contenedor de inyección de dependencias para gestionar las dependencias de la
+  aplicación.
 - [**normalize.css**](https://necolas.github.io/normalize.css/): Reset de CSS.
 
 A continuación, se detallan otras librerías y herramientas utilizadas en el proyecto:
@@ -160,9 +162,14 @@ Para evitar posibles problemas de compatibilidad que puedan surgir al actualizar
 casos, suelo configurar herramientas como Renovate o Dependabot para gestionar las actualizaciones de las dependencias
 de manera controlada y segura.
 
+**¿Por qué los tests no están en una carpeta independiente?**
+He optado por colocar los tests junto a los archivos que prueban (patrón
+[**SUT**](https://martinfowler.com/bliki/UnitTest.html#:~:text=SUT%20is%20an%20abbreviation%20for,under%20test%20(or%20system%20under%20test).)), ya que considero que esto mejora la legibilidad y facilita el mantenimiento del código de prueba.
+
 **¿Por qué no se utiliza Redux u otra librería de gestión de estado?**
 
-En este proyecto, he optado por utilizar el Context API de React junto con hooks personalizados para gestionar el estado,
+En este proyecto, he optado por utilizar el Context API de React junto con hooks personalizados para gestionar el
+estado,
 ya que la aplicación es relativamente sencilla y no requiere la complejidad adicional que conlleva el uso de librerías
 como Redux.
 
