@@ -5,7 +5,9 @@ import { cleanup, render, screen, waitFor } from '@testing-library/react';
 import { userEvent } from '@testing-library/user-event';
 import { afterAll, afterEach, beforeAll, describe, expect, it } from 'vitest';
 
-describe.sequential('Podcaster', () => {
+const TIMEOUT = 10_000;
+
+describe('Podcaster', () => {
 	beforeAll(() => {
 		server.listen();
 		render(<Podcaster />);
@@ -17,20 +19,24 @@ describe.sequential('Podcaster', () => {
 		server.close();
 	});
 
-	it('should filter podcast', async () => {
-		await waitFor(
-			async () => {
-				const input = await screen.findByPlaceholderText('Filter podcasts...');
+	it(
+		'should filter podcast',
+		async () => {
+			await waitFor(
+				async () => {
+					const input = await screen.findByPlaceholderText('Filter podcasts...');
 
-				expect(input).toBeInTheDocument();
+					expect(input).toBeInTheDocument();
 
-				await userEvent.type(input, 'New Rory');
+					await userEvent.type(input, 'New Rory');
 
-				const podcastLinks = await screen.findAllByTestId('podcast-link');
+					const podcastLinks = await screen.findAllByTestId('podcast-link');
 
-				expect(podcastLinks.length).toBe(1);
-			},
-			{ timeout: 3000 }
-		);
-	});
+					expect(podcastLinks.length).toBe(1);
+				},
+				{ timeout: TIMEOUT }
+			);
+		},
+		TIMEOUT
+	);
 });

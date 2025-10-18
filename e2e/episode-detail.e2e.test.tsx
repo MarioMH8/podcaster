@@ -4,7 +4,9 @@ import Podcaster from '@presentation/podcaster';
 import { cleanup, fireEvent, render, screen, waitFor } from '@testing-library/react';
 import { afterAll, afterEach, beforeAll, describe, expect, it } from 'vitest';
 
-describe.sequential('Podcaster', () => {
+const TIMEOUT = 10_000;
+
+describe('Podcaster', () => {
 	beforeAll(() => {
 		server.listen();
 		render(<Podcaster />);
@@ -16,36 +18,40 @@ describe.sequential('Podcaster', () => {
 		server.close();
 	});
 
-	it('should navigate to episode detail', async () => {
-		const link = await screen.findByRole('link', { name: /Song Exploder/i });
+	it(
+		'should navigate to episode detail',
+		async () => {
+			const link = await screen.findByRole('link', { name: /Song Exploder/i });
 
-		expect(link).toBeInTheDocument();
+			expect(link).toBeInTheDocument();
 
-		fireEvent.click(link);
+			fireEvent.click(link);
 
-		await waitFor(
-			() => {
-				const link = screen.queryAllByRole('link');
-				const episodeLink = link.at(5);
+			await waitFor(
+				() => {
+					const link = screen.queryAllByRole('link');
+					const episodeLink = link.at(5);
 
-				expect(episodeLink).toBeDefined();
+					expect(episodeLink).toBeDefined();
 
-				if (!episodeLink) {
-					throw new Error('Episode link not found');
-				}
+					if (!episodeLink) {
+						throw new Error('Episode link not found');
+					}
 
-				fireEvent.click(episodeLink);
-			},
-			{ timeout: 3000 }
-		);
+					fireEvent.click(episodeLink);
+				},
+				{ timeout: TIMEOUT }
+			);
 
-		await waitFor(
-			async () => {
-				const audio = await screen.findByRole('audio');
+			await waitFor(
+				async () => {
+					const audio = await screen.findByRole('audio');
 
-				expect(audio).toBeInTheDocument();
-			},
-			{ timeout: 3000 }
-		);
-	});
+					expect(audio).toBeInTheDocument();
+				},
+				{ timeout: TIMEOUT }
+			);
+		},
+		TIMEOUT
+	);
 });

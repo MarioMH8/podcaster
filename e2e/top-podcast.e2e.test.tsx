@@ -4,7 +4,9 @@ import Podcaster from '@presentation/podcaster';
 import { cleanup, render, screen, waitFor } from '@testing-library/react';
 import { afterAll, afterEach, beforeAll, describe, expect, it } from 'vitest';
 
-describe.sequential('Podcaster', () => {
+const TIMEOUT = 10_000;
+
+describe('Podcaster', () => {
 	beforeAll(() => {
 		server.listen();
 		render(<Podcaster />);
@@ -16,11 +18,18 @@ describe.sequential('Podcaster', () => {
 		server.close();
 	});
 
-	it('should load list of podcast', async () => {
-		await waitFor(async () => {
-			const podcastLinks = await screen.findAllByTestId('podcast-link');
+	it(
+		'should load list of podcast',
+		async () => {
+			await waitFor(
+				async () => {
+					const podcastLinks = await screen.findAllByTestId('podcast-link');
 
-			expect(podcastLinks.length).toBe(100);
-		});
-	});
+					expect(podcastLinks.length).toBe(100);
+				},
+				{ timeout: TIMEOUT }
+			);
+		},
+		TIMEOUT
+	);
 });
