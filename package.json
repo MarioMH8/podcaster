@@ -1,6 +1,6 @@
 {
 	"name": "podcaster",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "Mini aplicación para escuchar podcasts musicales",
 	"repository": {
 		"type": "git",
