@@ -142,7 +142,8 @@ para mejorar la mantenibilidad y escalabilidad del proyecto. A continuación se 
         - `features/`: Contiene las componentes de React que implementan funcionalidades específicas de la aplicación.
         - `context/`: Contiene los hooks encargados de exponer los datos y funcionalidades de la aplicación.
         - `utils/`: Contiene funciones y utilidades reutilizables en toda la aplicación.
-- `container.ts`: Contenedor de inyección de dependencias.
+    - `container.ts`: Contenedor de inyección de dependencias.
+- `e2e/`: Contiene los tests `e2e` de la aplicación.
 - `mock/`: Contiene datos de prueba y mocks para facilitar el desarrollo y las pruebas.
 - `public/`: Contiene archivos estáticos del proyecto.
 
