@@ -6,6 +6,12 @@
   Mini aplicación para escuchar podcasts musicales.
 </p>
 
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/version-v.1.0.0-blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/build-passing-green">
+  <img alt="Static Badge" src="https://img.shields.io/badge/coverage-100%25-green">
+</p>
+
 Indice
 ======
 
