@@ -109,6 +109,12 @@ npm run preview
 npm run test
 ```
 
+- `test:coverage`: Ejecuta los tests midiendo la cobertura de código.
+
+```bash
+npm run test:coverage
+```
+
 - `typecheck`: Verifica los tipos de TypeScript en el proyecto.
 
 ```bash
@@ -151,6 +157,7 @@ A continuación, se detallan otras librerías y herramientas utilizadas en el pr
 - [**Vite**](https://vitejs.dev/): Herramienta de construcción y desarrollo rápido para proyectos web.
 - [**Vitest**](https://vitest.dev/): Se utiliza como framework de pruebas.
 - [**ESLint**](https://eslint.org/): Herramienta para identificar errores y formatear el código (Utilizando Prettier).
+- [**Testing Library**](https://testing-library.com/): Librería para realizar pruebas de componentes de React.
 - [**HappyDOM**](https://github.com/capricorn86/happy-dom): Implementación de DOM para entornos de prueba.
 - [**MSW**](https://mswjs.io/): API para simular peticiones HTTP en pruebas y desarrollo.
 
